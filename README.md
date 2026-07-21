@@ -32,6 +32,56 @@ Copy an existing file in `_people/` (e.g. `_people/yixuan.md`) as a starting poi
 
 `photo:` accepts either a full image URL (e.g. a Google Drive share link) or a local path starting with `/assets/images/people/...` (put the image file there first).
 
+## Editing Publications
+
+Edit `_data/publications.yml`. Each entry:
+
+```yaml
+- title: "Paper title"
+  authors: "Smith, J., Doe, A."
+  journal: "Journal of Example"
+  year: 2025
+  doi: "https://doi.org/10.xxxx/xxxxx"   # optional
+  pdf: "https://..."                      # optional
+```
+
+`title`/`authors`/`journal`/`year` are the minimum needed; `doi` and `pdf` are optional — omit either one to hide that link on the entry. The year filter buttons on `/publications/` are generated automatically from whatever years appear in the list, so there's nothing else to update when adding a new year.
+
+## Editing Join Us
+
+Edit `_data/positions.yml`. Each entry:
+
+```yaml
+- title: "PhD Studentship — Project Title"
+  description: "Short description of the position."
+  status: open   # or closed
+  tags: ["PhD", "Funded"]
+  apply_url: "https://..."
+  deadline: "Jan 00, 2026"
+```
+
+`status: closed` greys the card out and swaps the Apply button for a disabled "Closed" one — `apply_url`/`deadline` can be left as `""` on closed positions since they won't be shown.
+
+## Editing Group Meetings
+
+Edit `_data/seminars.yml`, grouped by year:
+
+```yaml
+- year: 2025
+  talks:
+    - day: 20
+      month: "Jun 2025"
+      title: "Talk title"
+      speaker: "Speaker Name"
+      affiliation: "Speaker's institution"
+      speaker_url: ""   # optional — links the speaker's name if set
+      type: internal    # or external
+      upcoming: true    # or false
+      abstract: ""      # optional — leave "" to hide the abstract toggle
+```
+
+To add a new year, add another `- year: ...` block; to add a talk, add another entry to that year's `talks:` list. `upcoming: true` adds an "Upcoming" badge and makes the talk show up under the "Upcoming" filter button on `/group-meeting/`.
+
 ## Adding a new page
 
 1. Create a new file in `_pages/`, e.g. `_pages/resources.md`, with front matter:
