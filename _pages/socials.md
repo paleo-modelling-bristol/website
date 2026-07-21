@@ -33,7 +33,7 @@ permalink: /socials/
       </div>
       {% else %}
       <div class="masonry-item" data-src="{{ img.src | relative_url }}" data-caption="{{ img.caption }}">
-        <img src="{{ img.src | relative_url }}" alt="{{ img.caption }}">
+        <img src="{{ img.src | relative_url }}" alt="{{ img.caption }}"{% if img.height %} style="height:{{ img.height }}px; object-fit: cover;"{% endif %}>
       </div>
       {% endif %}
       {% endfor %}

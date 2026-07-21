@@ -4,6 +4,8 @@
 # To add a real photo to a section's `images` list:
 #   - src: /assets/images/socials/your-photo.jpg
 #     caption: "Caption text"
+#     height: 220   # optional — crops to this height (px) instead of the
+#                   # photo's natural aspect ratio; omit to use natural size.
 #
 # To add a real video:
 #   - video: /assets/videos/your-video.mp4
