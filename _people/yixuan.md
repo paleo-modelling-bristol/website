@@ -18,6 +18,7 @@ scholar: ""
 twitter: ""
 Bio : "I am a postdoc at the Paleo Modelling Group, working on dust cycle and
 methane modelling in past climates."
+---
 
 <!-- TODO: replace with a real bio -->
 
