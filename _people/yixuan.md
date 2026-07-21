@@ -21,4 +21,15 @@ research_interests:
   - "Methane"
 ---
 <!-- TODO: replace with a real bio -->
-I am a postdoc at the Paleo Modelling Group.
+
+I am a postdoc at the Paleo Modelling Group, working on dust cycle and
+methane modelling in past climates.
+
+## Education
+
+- PhD in XXX, University of YYY
+- MSc in ZZZ, University of AAA
+
+## Publications
+
+Gave an invited talk at the XXX conference in 2025 about...
