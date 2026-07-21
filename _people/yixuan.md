@@ -27,6 +27,7 @@ methane modelling in past climates."
 
 - PhD in XXX, University of YYY
 - MSc in ZZZ, University of AAA
+  
 
 ## Publications
 
