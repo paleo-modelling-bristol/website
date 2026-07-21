@@ -49,6 +49,7 @@ section + section { border-top: 1px solid #e8e8e8; }
 
 /* — Quick-link cards (home page) — */
 .cards-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.25rem; }
+.cards-stack { display: flex; flex-direction: column; gap: 1.25rem; }
 .card { border-radius: 10px; overflow: hidden; border: 1px solid #e8e8e8; }
 .card-img {
   height: 150px; overflow: hidden;
