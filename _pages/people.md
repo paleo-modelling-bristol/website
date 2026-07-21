@@ -24,7 +24,11 @@ sections:
   <h2 class="section-title">{{ section.label }}</h2>
   <div class="people-grid">
     {% for person in group %}
+    {% if person.external_profile and person.external_profile != "" %}
+    <a class="person-card" href="{{ person.external_profile }}" target="_blank" rel="noopener noreferrer">
+    {% else %}
     <a class="person-card" href="{{ person.url | relative_url }}">
+    {% endif %}
       <div class="person-photo">
         {% if person.photo and person.photo != "" %}
         <img src="{{ person.photo }}" alt="{{ person.name }}">

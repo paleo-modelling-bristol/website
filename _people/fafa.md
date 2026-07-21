@@ -4,6 +4,7 @@ section: pi
 role: "Professor"
 affiliation: ""
 photo: "https://drive.google.com/thumbnail?id=1YJIUH6KjIqzvpk4BC8wJY7KEDj6bv8To&sz=w400"
+external_profile: ""
 email: ""
 website: ""
 scholar: ""
