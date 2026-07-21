@@ -21,9 +21,11 @@ website: ""
 scholar: ""
 twitter: ""
 research_interests:
-  - "Dust Cycle"
-  - "Methane"
+  - ""
+  - ""
 ---
+## About
+
 I am a postdoc at the Paleo Modelling Group, working on dust cycle and
 methane modelling in past climates.
 
