@@ -19,8 +19,8 @@ website: ""
 scholar: ""
 twitter: ""
 research_interests:
-  - "Dust Cycle"
-  - "Methane"
+  - ""
+  - ""
 ---
 ## About
 
