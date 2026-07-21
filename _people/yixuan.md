@@ -10,8 +10,8 @@ website: ""
 scholar: ""
 twitter: ""
 research_interests:
-  - "Fig text topic"
-  - "Fig text topic"
+  - "Dust Cycle"
+  - "Methane"
 ---
 <!-- TODO: replace with a real bio -->
-Fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text.
+I am a postdoc at the Paleo Modelling Group.
