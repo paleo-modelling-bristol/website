@@ -4,7 +4,7 @@ section: postdoc
 role: "Postdoctoral Research Associate"
 affiliation: ""
 photo: ""
-external_profile: "https://research-information.bris.ac.uk/en/persons/yixuan-xie-2/"
+external_profile: ""
 email: ""
 website: ""
 scholar: ""
