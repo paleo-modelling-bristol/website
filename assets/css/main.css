@@ -213,9 +213,17 @@ section + section { border-top: 1px solid #e8e8e8; }
 .profile-section h2 {
   font-size: 13px; font-weight: 600; color: #993C1D;
   text-transform: uppercase; letter-spacing: 0.06em;
+  margin-top: 1.5em;
   margin-bottom: 0.75rem;
 }
-.profile-section p { font-size: 14px; color: #444; line-height: 1.85; }
+/* The hardcoded "About" heading is always the section's first child —
+   any later h2 typed into the bio (## Education, ## Publications, ...)
+   gets the margin-top above so those sub-sections have breathing room. */
+.profile-section h2:first-child { margin-top: 0; }
+.profile-section p { font-size: 14px; color: #444; line-height: 1.85; margin-bottom: 1em; }
+.profile-section p:last-child { margin-bottom: 0; }
+.profile-section ul, .profile-section ol { margin: 0 0 1em 1.25em; font-size: 14px; color: #444; line-height: 1.85; }
+.profile-section li { margin-bottom: 0.3em; }
 .tags { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 .tag {
   background: #faf8f7; border: 1px solid #e8e8e8;
