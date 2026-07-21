@@ -30,7 +30,7 @@ Copy an existing file in `_people/` (e.g. `_people/yixuan.md`) as a starting poi
 
 `section:` must be one of the five values defined in `_pages/people.md` (`pi` / `postdoc` / `pgr` / `visitor` / `old_friends`) — anything else silently won't appear on the People page.
 
-`photo:` accepts either a full image URL (e.g. a Google Drive share link) or a local path starting with `/assets/images/...` (put the image file there first).
+`photo:` accepts either a full image URL (e.g. a Google Drive share link) or a local path starting with `/assets/images/people/...` (put the image file there first).
 
 ## Adding a new page
 

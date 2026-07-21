@@ -16,7 +16,7 @@ section: pi
 role: "Professor"
 affiliation: ""
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
-# starting with /assets/images/... (put the image file there first).
+# starting with /assets/images/people/... (put the image file there first).
 photo: "https://drive.google.com/thumbnail?id=1YJIUH6KjIqzvpk4BC8wJY7KEDj6bv8To&sz=w400"
 external_profile: ""
 email: ""

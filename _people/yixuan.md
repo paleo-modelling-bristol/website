@@ -16,8 +16,8 @@ section: postdoc
 role: "Postdoc"
 affiliation: ""
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
-# starting with /assets/images/... (put the image file there first).
-photo: "/assets/images/Yixuan.jpeg"
+# starting with /assets/images/people/... (put the image file there first).
+photo: "/assets/images/people/Yixuan.jpeg"
 external_profile: ""
 email: "yixuan.xie@bristol.ac.uk"
 website: ""
