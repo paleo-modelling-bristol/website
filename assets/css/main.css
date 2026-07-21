@@ -12,9 +12,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; c
 }
 .nav-brand { display: flex; align-items: center; gap: 10px; text-decoration: none; }
 .nav-logo-box {
-  width: 38px; height: 38px; background: #993C1D; border-radius: 4px;
-  display: flex; align-items: center; justify-content: center;
-  color: #fff; font-weight: 600; font-size: 12px; letter-spacing: .04em; flex-shrink: 0;
+  height: 38px; width: auto; flex-shrink: 0;
 }
 .nav-brand-text { font-size: 14px; font-weight: 600; color: #1a1a1a; line-height: 1.2; }
 .nav-brand-text span { display: block; font-size: 11px; color: #777; font-weight: 400; }

@@ -6,10 +6,6 @@ department: "Fig Text University"
 url: "https://paleo-modelling-bristol.github.io"
 baseurl: "/website"
 
-# Brand
-brand_short: "PMG"
-brand_color: "#993C1D"
-
 # TODO: replace with the real group contact address
 contact_email: "fig.text@bristol.ac.uk"
 
