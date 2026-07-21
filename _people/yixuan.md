@@ -16,14 +16,11 @@ email: "yixuan.xie@bristol.ac.uk"
 website: ""
 scholar: ""
 twitter: ""
-research_interests:
-  - "Dust Cycle"
-  - "Methane"
----
+Bio : "I am a postdoc at the Paleo Modelling Group, working on dust cycle and
+methane modelling in past climates."
+
 <!-- TODO: replace with a real bio -->
 
-I am a postdoc at the Paleo Modelling Group, working on dust cycle and
-methane modelling in past climates.
 
 ## Education
 
