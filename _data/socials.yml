@@ -24,11 +24,6 @@
     - { placeholder: true, height: 160 }
     - { placeholder: true, height: 200 }
     - { placeholder: true, height: 220 }
-    - src: assets/images/socials/Mar_24_darts.jpg
-      height：220
-  
-
-    assets/images/socials/Mar_24_darts.jpg
 
 - title: "Fig Text Conference"
   date: "Sep 2024"
