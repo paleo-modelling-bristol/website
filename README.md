@@ -2,7 +2,7 @@
 
 The group's website, built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Pages.
 
-**Live site:** https://paleo-modelling-bristol.github.io/jekyll-website/
+**Live site:** https://paleo-modelling-bristol.github.io/website/
 
 ## Site structure
 
