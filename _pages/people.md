@@ -2,6 +2,10 @@
 layout: default
 title: "People"
 permalink: /people/
+# These are the only 5 valid values for a person's `section:` field in
+# _people/*.md (pi / postdoc / pgr / visitor / old_friends). Anything else
+# won't match a group below and that person will silently not appear here.
+# To add a new group, add a key/label pair here.
 sections:
   - key: pi
     label: "PIs"
@@ -11,6 +15,8 @@ sections:
     label: "Postgraduate Researcher"
   - key: visitor
     label: "Visitors"
+  - key: old_friends
+    label: "Old Friends"
 ---
 <div class="page-header">
   <div class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / People</div>

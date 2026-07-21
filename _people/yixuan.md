@@ -7,6 +7,8 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Yixuan"
+# section: must be exactly one of pi / postdoc / pgr / visitor / old_friends
+# (defined in _pages/people.md) — anything else won't show up on /people/.
 section: postdoc
 role: "Postdoc"
 affiliation: ""
