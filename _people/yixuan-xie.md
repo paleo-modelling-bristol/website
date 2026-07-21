@@ -10,7 +10,7 @@ name: "Yixuan Xie"
 section: postdoc
 role: "Postdoc"
 affiliation: ""
-photo: ""
+photo: "assets/images/YixuanXie.jpg"
 external_profile: "https://research-information.bris.ac.uk/en/persons/yixuan-xie-2/"
 email: ""
 website: ""
