@@ -53,13 +53,12 @@ title: "Home"
   <h2 class="section-title">About Us</h2>
   <div class="about-grid">
     <div class="about-text">
-Our main focus is on paleoclimate modelling across multiple timescales of Earth's history.  Broadly speaking, our aims are twofold - (1) to better understand Earth's climate history, with a focus on the mechanisms and feedbacks that translate climate forcings into a climate response, and (2) to evaluate and improve climate models through paleo model-data comparisons, with the aim of improving future climate projections.   In this regard, we work closely with the paleo data community in order to rigorously evaluate our climate models.
-
-
-The Bristol Paleo modelling group was founded in 2002, and is a part of the wider BRIDGE research group within the School of Geographical Sciences at the University of Bristol.
-
-We are a very international group, and we welcome visiting scientists from across the world, including visiting PhD and Masters students.
-
+   <p>Our main focus is on paleoclimate modelling across multiple timescales of Earth's history. Broadly speaking, our aims are twofold - (1) to better understand Earth's climate history, with a focus on the mechanisms and feedbacks that translate climate forcings into a climate response, and (2) to evaluate and improve climate models through paleo model-data comparisons, with the aim of improving future climate projections. In this regard, we work closely with the paleo data community in order to rigorously evaluate our climate models.</p>
+      
+      <p>The Bristol Paleo modelling group was founded in 2002, and is a part of the wider BRIDGE research group within the School of Geographical Sciences at the University of Bristol.</p>
+      
+      <p>We are a very international group, and we welcome visiting scientists from across the world, including visiting PhD and Masters students.</p>
+      
     </div>
     <div class="about-stats">
       <div class="stat-card">
