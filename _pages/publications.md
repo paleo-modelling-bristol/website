@@ -1,19 +1,45 @@
 ---
-layout: single
+layout: default
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
+{% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
 
-## Peer-Reviewed Articles
+<div class="page-header">
+  <div class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / Publications</div>
+  <h1>Publications</h1>
+</div>
 
-1. Smith, J., Johnson, A., & Williams, K. (2024). A study about glacier mass balance response. *Journal of Glaciology*. https://doi.org/10.XXXX/XXXXX
+<div class="pub-wrap">
+  <div class="pub-filters">
+    <button class="filter-btn active" onclick="filterPubs('all', this)">All</button>
+    {% for year in years %}
+    <button class="filter-btn" onclick="filterPubs('{{ year }}', this)">{{ year }}</button>
+    {% endfor %}
+  </div>
 
-2. Johnson, A., Smith, J., & Chen, L. (2023). A study about precipitation patterns in alpine regions. *Geophysical Research Letters*. https://doi.org/10.XXXX/XXXXX
+  <div class="pub-list">
+    {% for pub in site.data.publications %}
+    <div class="pub-item" data-year="{{ pub.year }}">
+      <div class="pub-title">{{ pub.title }}</div>
+      <div class="pub-authors">{{ pub.authors }} ({{ pub.year }})</div>
+      <div class="pub-journal">{{ pub.journal }}</div>
+      <div class="pub-meta">
+        <span class="pub-year">{{ pub.year }}</span>
+        {% if pub.doi %}<a class="pub-link" href="{{ pub.doi }}">DOI <i class="ti ti-external-link"></i></a>{% endif %}
+        {% if pub.pdf %}<a class="pub-link" href="{{ pub.pdf }}">PDF <i class="ti ti-file-type-pdf"></i></a>{% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 
-3. Smith, J., Brown, R., & Davis, S. (2022). A study about monitoring glacier dynamics with remote sensing. *Remote Sensing of Environment*. https://doi.org/10.XXXX/XXXXX
-
-## In Preparation
-
-- Smith, J., et al. Seasonal variations in subglacial discharge: A multi-year study (in review)
-- Smith, J., et al. Machine learning methods for glacier terminus detection (in preparation)
+<script>
+  function filterPubs(year, btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.pub-item').forEach(item => {
+      item.style.display = (year === 'all' || item.dataset.year === String(year)) ? '' : 'none';
+    });
+  }
+</script>

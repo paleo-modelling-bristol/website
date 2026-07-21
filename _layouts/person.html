@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<div class="page-header" style="padding-bottom: 0; border-bottom: none;">
+  <div class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / <a href="{{ '/people/' | relative_url }}">People</a> / {{ page.name }}</div>
+</div>
+
+<div class="profile">
+
+  <div>
+    <div class="profile-photo">
+      {% if page.photo and page.photo != "" %}
+      <img src="{{ page.photo }}" alt="{{ page.name }}">
+      {% endif %}
+    </div>
+    <div class="profile-links">
+      {% if page.website and page.website != "" %}<a class="profile-link" href="{{ page.website }}"><i class="ti ti-world"></i> Personal website</a>{% endif %}
+      {% if page.email and page.email != "" %}<a class="profile-link" href="mailto:{{ page.email }}"><i class="ti ti-mail"></i> {{ page.email }}</a>{% endif %}
+      {% if page.scholar and page.scholar != "" %}<a class="profile-link" href="{{ page.scholar }}"><i class="ti ti-brand-google-scholar"></i> Google Scholar</a>{% endif %}
+      {% if page.twitter and page.twitter != "" %}<a class="profile-link" href="{{ page.twitter }}"><i class="ti ti-brand-twitter"></i> Twitter / X</a>{% endif %}
+    </div>
+  </div>
+
+  <div>
+    <div class="profile-name">{{ page.name }}</div>
+    <div class="profile-title">
+      {{ page.role }}{% if page.affiliation and page.affiliation != "" %} · {{ page.affiliation }}{% endif %}
+    </div>
+
+    <div class="profile-section">
+      <h2>About</h2>
+      {{ content }}
+    </div>
+
+    {% if page.research_interests %}
+    <div class="profile-section">
+      <h2>Research Interests</h2>
+      <div class="tags">
+        {% for topic in page.research_interests %}
+        <span class="tag">{{ topic }}</span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if page.publications %}
+    <div class="profile-section">
+      <h2>Selected Publications</h2>
+      <div class="pub-list">
+        {% for pub in page.publications %}
+        <div class="pub-item">
+          <div class="pub-title">{{ pub.title }}</div>
+          <div>{{ pub.authors }} ({{ pub.year }})</div>
+          <div class="pub-journal">{{ pub.journal }}</div>
+          {% if pub.doi %}<a href="{{ pub.doi }}">DOI &rarr;</a>{% endif %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+  </div>
+</div>

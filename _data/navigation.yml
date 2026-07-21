@@ -2,11 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "CV"
-    url: /cv/
+  - title: "Model Outputs"
+    url: /model-outputs/
+  - title: "People"
+    url: /people/
   - title: "Group Socials"
     url: /socials/
+  - title: "Group Meetings"
+    url: /group-meeting/
+  - title: "Join Us"
+    url: /join/

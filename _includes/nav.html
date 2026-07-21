@@ -1,0 +1,19 @@
+<nav class="nav">
+  <a class="nav-brand" href="{{ '/' | relative_url }}">
+    <div class="nav-logo-box">{{ site.brand_short }}</div>
+    <div class="nav-brand-text">
+      {{ site.title }}
+      <span>{{ site.tagline }}</span>
+    </div>
+  </a>
+  <ul class="nav-links">
+    {% for item in site.data.navigation.main %}
+    {% if item.url == "/" %}
+      {% assign is_active = page.url == "/" %}
+    {% else %}
+      {% assign is_active = page.url contains item.url %}
+    {% endif %}
+    <li><a href="{{ item.url | relative_url }}"{% if is_active %} class="active"{% endif %}>{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

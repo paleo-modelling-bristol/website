@@ -1,0 +1,44 @@
+# Edit this file to add real event photos.
+# Each section is one event. tag must be one of: fieldwork / conference / social
+#
+# To add a real photo to a section's `images` list:
+#   - src: /assets/images/socials/your-photo.jpg
+#     caption: "Caption text"
+#
+# To add a real video:
+#   - video: /assets/videos/your-video.mp4
+#     thumb: /assets/images/socials/your-thumbnail.jpg
+#     caption: "Caption text"
+#
+# Until real photos are added, `placeholder: true` entries render an empty tile
+# (same behaviour as the old static site) so the gallery layout still looks right.
+
+- title: "Annual Group Dinner"
+  date: "Dec 2024"
+  tag: social
+  images:
+    - { placeholder: true, height: 180 }
+    - { placeholder: true, height: 240 }
+    - { placeholder: true, height: 160 }
+    - { placeholder: true, height: 200 }
+    - { placeholder: true, height: 220 }
+    - { placeholder: true, height: 170 }
+
+- title: "Fig Text Conference"
+  date: "Sep 2024"
+  tag: conference
+  images:
+    - { placeholder: true, height: 200 }
+    - { placeholder: true, height: 160 }
+    - { placeholder: true, height: 230 }
+    - { placeholder: true, height: 180 }
+
+- title: "Field Trip — Fig Text Location"
+  date: "Jun 2024"
+  tag: fieldwork
+  images:
+    - { placeholder: true, height: 210 }
+    - { placeholder: true, height: 180 }
+    - { placeholder: true, height: 160 }
+    - { placeholder: true, height: 240 }
+    - { placeholder: true, height: 190 }

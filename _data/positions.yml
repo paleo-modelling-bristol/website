@@ -1,0 +1,19 @@
+# Edit this file to add/update open positions. status: open or closed.
+- title: "PhD Studentship — Fig Text Project Title"
+  description: "Fig text fig text fig text fig text fig text fig text brief description of the PhD project and what the student will work on."
+  status: open
+  tags: ["PhD", "Funded"]
+  apply_url: "#"
+  deadline: "Jan 00, 2026"
+- title: "Postdoctoral Research Associate — Fig Text Project"
+  description: "Fig text fig text fig text fig text fig text fig text brief description of the postdoc position and research focus."
+  status: open
+  tags: ["Postdoc", "2 years"]
+  apply_url: "#"
+  deadline: "Feb 00, 2026"
+- title: "Master's Project — Fig Text Topic"
+  description: "Fig text fig text fig text fig text brief description of the master's project."
+  status: closed
+  tags: ["MSc"]
+  apply_url: ""
+  deadline: ""

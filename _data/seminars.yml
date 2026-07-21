@@ -1,0 +1,52 @@
+# Edit this file to add/update group meeting entries.
+# type: internal or external. upcoming: true/false.
+- year: 2025
+  talks:
+    - day: 20
+      month: "Jun 2025"
+      title: "Fig text fig text fig text seminar title"
+      speaker: "Fig Text Speaker"
+      affiliation: "Fig Text University"
+      speaker_url: ""
+      type: internal
+      upcoming: true
+      abstract: ""
+    - day: 5
+      month: "May 2025"
+      title: "Fig text fig text fig text seminar title"
+      speaker: "Fig Text Speaker"
+      affiliation: "Fig Text Institution"
+      speaker_url: "#"
+      type: external
+      upcoming: false
+      abstract: "Fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text abstract of the talk."
+    - day: 14
+      month: "Mar 2025"
+      title: "Fig text fig text fig text seminar title"
+      speaker: "Fig Text Speaker"
+      affiliation: "Fig Text University"
+      speaker_url: ""
+      type: internal
+      upcoming: false
+      abstract: "Fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text abstract of the talk."
+
+- year: 2024
+  talks:
+    - day: 10
+      month: "Nov 2024"
+      title: "Fig text fig text fig text seminar title"
+      speaker: "Fig Text Speaker"
+      affiliation: "Fig Text Institution"
+      speaker_url: "#"
+      type: external
+      upcoming: false
+      abstract: "Fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text abstract of the talk."
+    - day: 22
+      month: "Aug 2024"
+      title: "Fig text fig text fig text seminar title"
+      speaker: "Fig Text Speaker"
+      affiliation: "Fig Text University"
+      speaker_url: ""
+      type: internal
+      upcoming: false
+      abstract: ""

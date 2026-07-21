@@ -1,0 +1,18 @@
+# Edit this file to add/update publications. Each entry needs at least title/authors/journal/year.
+- title: "Fig text fig text fig text fig text publication title"
+  authors: "Fig text, Fig text, Fig text"
+  journal: "Journal of Fig Text Research"
+  year: 2025
+  doi: "#"
+  pdf: "#"
+- title: "Fig text fig text fig text fig text publication title"
+  authors: "Fig text, Fig text"
+  journal: "Nature Fig Text"
+  year: 2024
+  doi: "#"
+- title: "Fig text fig text fig text fig text publication title"
+  authors: "Fig text, Fig text, Fig text"
+  journal: "Science Fig Text"
+  year: 2023
+  doi: "#"
+  pdf: "#"
