@@ -19,7 +19,9 @@
   date: "March 2024"
   tag: social
   images:
-    - { placeholder: true, height: 180 }
+    - src: /assets/images/socials/Mar_24_darts.jpg
+      caption: "Darts night"
+      height: 220
     - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
     - { placeholder: true, height: 200 }
