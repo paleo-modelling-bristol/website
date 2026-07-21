@@ -1,6 +1,6 @@
 ---
 # ── Two ways to show a profile — pick one ──────────────────────────────────
-# 1) External link: fill in `external_profile` below. Only `name` and `role`
+# 1) External link: fill in `external_profile` below. Only `name` and `section`
 #    are then needed — affiliation/photo/email/website/scholar/twitter are
 #    optional, and the bio text + research_interests + publications are
 #    ignored everywhere on the site (this file's own page just links out).
@@ -19,7 +19,7 @@ external_profile: ""
 email: "yixuan.xie@bristol.ac.uk"
 website: ""
 scholar: ""
-twitter: ""
+social media: ""
 research_interests:
   - ""
   - ""
