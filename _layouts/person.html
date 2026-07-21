@@ -5,6 +5,20 @@ layout: default
   <div class="breadcrumb"><a href="{{ '/' | relative_url }}">Home</a> / <a href="{{ '/people/' | relative_url }}">People</a> / {{ page.name }}</div>
 </div>
 
+{% if page.external_profile and page.external_profile != "" %}
+<!-- external_profile is set: this person's bio/research_interests/publications
+     fields (if any are filled in) are intentionally ignored — external_profile
+     always wins, so the two ways of showing a profile stay mutually exclusive. -->
+<div class="content">
+  <div class="join-section">
+    <h2>{{ page.name }}</h2>
+    <p>{{ page.name }}'s profile is maintained outside this site.</p>
+    <a class="btn btn-primary" href="{{ page.external_profile }}" target="_blank" rel="noopener noreferrer">
+      View {{ page.name }}'s profile <i class="ti ti-external-link"></i>
+    </a>
+  </div>
+</div>
+{% else %}
 <div class="profile">
 
   <div>
@@ -61,3 +75,4 @@ layout: default
 
   </div>
 </div>
+{% endif %}
