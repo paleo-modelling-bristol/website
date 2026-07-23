@@ -8,8 +8,8 @@ external_profile: ""
 email: linlin.chen@bristol.ac.uk; linlin.chen128@outlook.com
 website: https://www.researchgate.net/profile/Linlin-Chen-12?ev=hdr_xprf
 scholar: China Scholarship Council grant; European Lighthouse on Secure and Safe AI (ELSA) Mobility Grant.
-ORCID: https://orcid.org/0000-0003-4930-8770
-Github: https://github.com/LinlinCHEN666
+orcid: https://orcid.org/0000-0003-4930-8770
+github: https://github.com/LinlinCHEN666
 research_interests:
   - Deep-time climate modelling
   - Monsoon
