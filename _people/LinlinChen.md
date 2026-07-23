@@ -1,6 +1,6 @@
 ---
 name: Linlin Chen
-section: Postgraduate Researchers
+section: pgr
 role: PhD student
 affiliation: University of Bristol
 photo: /assets/images/people/LinlinChen.jpg
