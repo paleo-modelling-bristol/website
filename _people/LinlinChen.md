@@ -6,8 +6,10 @@ affiliation: University of Bristol
 photo: /assets/images/people/LinlinChen.jpg
 external_profile: ""
 email: linlin.chen@bristol.ac.uk; linlin.chen128@outlook.com
-website: https://www.researchgate.net/profile/Linlin-Chen-12?ev=hdr_xprf; https://github.com/LinlinCHEN666; https://orcid.org/0000-0003-4930-8770
+website: https://www.researchgate.net/profile/Linlin-Chen-12?ev=hdr_xprf
 scholar: China Scholarship Council grant; European Lighthouse on Secure and Safe AI (ELSA) Mobility Grant.
+ORCID: https://orcid.org/0000-0003-4930-8770
+Github: https://github.com/LinlinCHEN666
 research_interests:
   - Deep-time climate modelling
   - Monsoon
@@ -41,16 +43,17 @@ Li, Y., Jones, C. D., Valdes, P. J., ..., **Chen, L.**, ..., et al. (2026). Conf
 
 Zhou, Z., Liu, J., **Chen, L.**, Spicer, R. A., Li, S., Huang, J., et al. (2022). Cenozoic plants from Tibet: An extraordinary decade of discovery, understanding and implications. _Science China Earth Sciences_, 66(2), 205–226. https://doi.org/10.1007/s11430-022-9980-9
 ## Research experience
-- **Coupled Earth system modelling: continental controls on the Asian Monsoon | 2022-2025**
+
+- **Coupled Earth system modelling: continental controls on the Asian Monsoon. 2022-2025**
 	- Designed, executed and analysed equilibrium simulations with the coupled atmosphere-ocean climate model HadCM3B to test the climate response to alternative continental and topographic configurations.
 	- Diagnosed thermodynamic mechanisms and land-ocean relative contributions under specific configuration scenarios.
-- **Machine-learning-derived potential peatland distributions through the Phanerozoic | 2024-present**
+- **Machine-learning-derived potential peatland distributions through the Phanerozoic. 2024-present**
 	-  Built PeatClim, a machine-learning model to predict potential peatland/coal-forming environments from simulated paleoclimate variables.
 	- Tested model parameters, applied post-hoc explanation methods and identified key bioclimatic controls on peatland formation.
 	- Linked predictions to coal records to evaluate model performance and developed transferable HPC workflows for multiple experiments.
-- **CMIP7 HadCM3B-ESM forcing experiments | 2024-present**
+- **CMIP7 HadCM3B-ESM forcing experiments. 2024-present**
 	- Implemented CMIP7 protocol solar and ozone forcing experiments in HadCM3B-ESM.
 	- Produced documentation to support reproducible experiment workflows and outputs within a larger modelling group.
-- **Species distribution modelling for _Quercus_ section _Ilex_ | 2019-2021**
+- **Species distribution modelling for _Quercus_ section _Ilex_. 2019-2021**
 	- Modelled past plant distribution dynamics using fossil records and paleoclimate data.
 	- Identified climatic drivers of suitability and linked distribution changes to mountain uplift-associated expansion and dominance.
