@@ -6,9 +6,8 @@ affiliation: University of Bristol
 photo: /assets/images/people/LinlinChen.jpg
 external_profile: ""
 email: linlin.chen@bristol.ac.uk; linlin.chen128@outlook.com
-website: https://orcid.org/0000-0003-4930-8770
+website: https://www.researchgate.net/profile/Linlin-Chen-12?ev=hdr_xprf; https://github.com/LinlinCHEN666; https://orcid.org/0000-0003-4930-8770
 scholar: China Scholarship Council grant; European Lighthouse on Secure and Safe AI (ELSA) Mobility Grant.
-social_media: https://www.researchgate.net/profile/Linlin-Chen-12?ev=hdr_xprf; https://github.com/LinlinCHEN666
 research_interests:
   - Deep-time climate modelling
   - Monsoon
