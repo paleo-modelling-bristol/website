@@ -3,40 +3,44 @@
 
 - year: 2026
   talks:
-     - day: 2
+    - day: 2
       month: "June 2026"
       title: "Oligocene Climate Emulation: from SST simulation to CO2 inversion plus some ideas about climate sensitivity"
       speaker: "Xin Ren"
       affiliation: "University of Bristol"
       speaker_url: ""
       type: internal
-      upcoming: false  
-   - day: 5
+      upcoming: false
+
+    - day: 5
       month: "May 2026"
       title: "Introduction to analysing paleoclimate model outputs in Python: workshop test on members of the group."
       speaker: "Dan Lunt"
       affiliation: "University of Bristol"
       speaker_url: ""
       type: internal
-      upcoming: false  
-   - day: 21
+      upcoming: false
+
+    - day: 21
       month: "Apr 2026"
       title: "A Modelling Framework for Methane over Geological Timescales"
       speaker: "Yixuan Xie"
       affiliation: "University of Bristol"
       speaker_url: ""
       type: internal
-      upcoming: false  
-   - day: 31
+      upcoming: false
+
+    - day: 31
       month: "Mar 2026"
       title: "The rise of the Himalaya-Tibetan Plateau and its climate impacts from data perspective"
       speaker: "Zhongyu Xiong"
-      affiliation: "Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences"
+      affiliation: "Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences"
       speaker_url: ""
       type: internal
       upcoming: false
       abstract: ""
-   - day: 24
+
+    - day: 24
       month: "Mar 2026"
       title: "Exploring orbital-paced forcings impacts on the Mid-Pleistocene Transition using snapshot simulations"
       speaker: "Jeanne Millot-Weil"
@@ -45,7 +49,8 @@
       type: internal
       upcoming: false
       abstract: ""
-   - day: 24
+
+    - day: 24
       month: "Feb 2026"
       title: "Carbon cycle feedback dependence on initial land-use state"
       speaker: "Yousheng Li"
@@ -54,6 +59,7 @@
       type: internal
       upcoming: false
       abstract: ""
+
     - day: 27
       month: "Jan 2026"
       title: "Climate-driven potential peatland distribution through the Phanerozoic"
@@ -63,27 +69,30 @@
       type: external
       upcoming: false
       abstract: ""
+
 - year: 2025
   talks:
-      - day: 25
+    - day: 25
       month: "Nov 2025"
       title: "The relative role of direct orbital forcing, and CO2 and ice sheet feedbacks on Quaternary climate"
       speaker: "Charlie Williams"
-      affiliation: "University of Brisol, University College London, University of Oxford"
+      affiliation: "University of Bristol, University College London, University of Oxford"
       speaker_url: ""
       type: internal
       upcoming: false
       abstract: ""
+
     - day: 18
       month: "Nov 2025"
       title: "Mechanisms and impacts of South Pacific hydroclimate changes over the past two millennia"
       speaker: "Daniel Skinner"
-      affiliation: "University of Brisol"
+      affiliation: "University of Bristol"
       speaker_url: ""
       type: internal
       upcoming: false
       abstract: ""
-      - day: 4
+
+    - day: 4
       month: "Nov 2025"
       title: "Eco-evolutionary vegetation dynamics during hyperthermals in Earth’s past"
       speaker: "Julian Rogger"
@@ -92,13 +101,13 @@
       type: internal
       upcoming: false
       abstract: ""
+
     - day: 7
       month: "Oct 2025"
-      title: "The "Deep Tropical Contraction" under Extremely Hot Climates: From the Eocene to the high-emission Future scenario"
+      title: 'The "Deep Tropical Contraction" under Extremely Hot Climates: From the Eocene to the high-emission Future scenario'
       speaker: "Zikun Run"
       affiliation: "University of Bristol"
       speaker_url: ""
       type: internal
-      upcoming: true
+      upcoming: false
       abstract: ""
-
