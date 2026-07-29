@@ -3,24 +3,67 @@
 
 - year: 2026
   talks:
-    - day: 10
-      month: "Nov 2024"
-      title: "Fig text fig text fig text seminar title"
-      speaker: "Fig Text Speaker"
-      affiliation: "Fig Text Institution"
-      speaker_url: "#"
-      type: external
-      upcoming: false
-      abstract: "Fig text fig text fig text fig text fig text fig text fig text fig text fig text fig text abstract of the talk."
-    - day: 22
-      month: "Aug 2024"
-      title: "Fig text fig text fig text seminar title"
-      speaker: "Fig Text Speaker"
-      affiliation: "Fig Text University"
+     - day: 2
+      month: "June 2026"
+      title: "Oligocene Climate Emulation: from SST simulation to CO2 inversion plus some ideas about climate sensitivity"
+      speaker: "Xin Ren"
+      affiliation: "University of Bristol"
+      speaker_url: ""
+      type: internal
+      upcoming: false  
+   - day: 5
+      month: "May 2026"
+      title: "Introduction to analysing paleoclimate model outputs in Python: workshop test on members of the group."
+      speaker: "Dan Lunt"
+      affiliation: "University of Bristol"
+      speaker_url: ""
+      type: internal
+      upcoming: false  
+   - day: 21
+      month: "Apr 2026"
+      title: "A Modelling Framework for Methane over Geological Timescales"
+      speaker: "Yixuan Xie"
+      affiliation: "University of Bristol"
+      speaker_url: ""
+      type: internal
+      upcoming: false  
+   - day: 31
+      month: "Mar 2026"
+      title: "The rise of the Himalaya-Tibetan Plateau and its climate impacts from data perspective"
+      speaker: "Zhongyu Xiong"
+      affiliation: "Institute of Tibetan Plateau Research (ITP), Chinese Academy of Sciences"
       speaker_url: ""
       type: internal
       upcoming: false
       abstract: ""
+   - day: 24
+      month: "Mar 2026"
+      title: "Exploring orbital-paced forcings impacts on the Mid-Pleistocene Transition using snapshot simulations"
+      speaker: "Jeanne Millot-Weil"
+      affiliation: "University of Bristol"
+      speaker_url: ""
+      type: internal
+      upcoming: false
+      abstract: ""
+   - day: 24
+      month: "Feb 2026"
+      title: "Carbon cycle feedback dependence on initial land-use state"
+      speaker: "Yousheng Li"
+      affiliation: "University of Bristol"
+      speaker_url: ""
+      type: internal
+      upcoming: false
+      abstract: ""
+    - day: 27
+      month: "Jan 2026"
+      title: "Climate-driven potential peatland distribution through the Phanerozoic"
+      speaker: "Linlin Chen"
+      affiliation: "University of Bristol"
+      speaker_url: ""
+      type: external
+      upcoming: false
+      abstract: ""
+
 
 
 - year: 2025
@@ -34,8 +77,6 @@
       type: internal
       upcoming: false
       abstract: ""
-
-  
     - day: 18
       month: "Nov 2025"
       title: "Mechanisms and impacts of South Pacific hydroclimate changes over the past two millennia"
@@ -45,7 +86,6 @@
       type: internal
       upcoming: false
       abstract: ""
-
       - day: 4
       month: "Nov 2025"
       title: "Eco-evolutionary vegetation dynamics during hyperthermals in Earth’s past"
@@ -55,7 +95,6 @@
       type: internal
       upcoming: false
       abstract: ""
-      
     - day: 7
       month: "Oct 2025"
       title: "The "Deep Tropical Contraction" under Extremely Hot Climates: From the Eocene to the high-emission Future scenario"
