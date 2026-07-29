@@ -63,9 +63,6 @@
       type: external
       upcoming: false
       abstract: ""
-
-
-
 - year: 2025
   talks:
       - day: 25
