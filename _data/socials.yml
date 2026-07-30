@@ -98,6 +98,14 @@
     - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
 
+- title: "Chinese New Year - Dragon"
+  date: "February 2024"
+  tag: social
+  images:
+    - src: /assets/images/socials/
+      caption: ""
+      height: 220
+    - { placeholder: true, height: 240 }
 
 
 - title: "Field Trip — Fig Text Location"
