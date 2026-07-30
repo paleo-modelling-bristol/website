@@ -54,10 +54,10 @@
   images:
     - src: /assets/images/socials/LaserTag_1.png
       caption: "Team Paleo"
-      height: 220
+      height: 400
     - src: /assets/images/socials/LaserTag_2.png
       caption: ""
-      height: 220
+      height: 400
 
 - title: "Weston-super-Mare beach"
   date: "June 2024"
