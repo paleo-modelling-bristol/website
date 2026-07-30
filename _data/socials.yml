@@ -15,6 +15,30 @@
 # Until real photos are added, `placeholder: true` entries render an empty tile
 # (same behaviour as the old static site) so the gallery layout still looks right.
 
+- title: "Treetops High Ropes"
+  date: "June 2026"
+  tag: social
+  images:
+    - src: /assets/images/socials/
+      caption: ""
+      height: 220
+    - { placeholder: true, height: 240 }
+    - { placeholder: true, height: 160 }
+    - { placeholder: true, height: 200 }
+    - { placeholder: true, height: 220 }
+
+  - title: "Chinese New Year - Horse"
+  date: "February 2026"
+  tag: social
+  images:
+    - src: /assets/images/socials/
+      caption: ""
+      height: 220
+    - { placeholder: true, height: 240 }
+    - { placeholder: true, height: 160 }
+    - { placeholder: true, height: 200 }
+    - { placeholder: true, height: 220 }
+
 - title: "Darts🎯"
   date: "March 2024"
   tag: social
@@ -27,14 +51,54 @@
     - { placeholder: true, height: 200 }
     - { placeholder: true, height: 220 }
 
-- title: "Fig Text Conference"
-  date: "Sep 2024"
-  tag: conference
+  - title: " Cricket🏏"
+  date: "February 2025"
+  tag: social
+  images:
+    - src: /assets/images/socials/Cricket.png
+      caption: ""
+      height: 220
+    - { placeholder: true, height: 240 }
+    - { placeholder: true, height: 160 }
+
+- title: "French Taste"
+  date: "September 2024"
+  tag: Dinner
   images:
     - { placeholder: true, height: 200 }
+
+  - title: "Laster Tag v.s. BCD"
+  date: "June 2024"
+  tag: social
+  images:
+    - src: /assets/images/socials/LaserTag_1.png
+      caption: "Team Paleo"
+      height: 220
+    - src: /assets/images/socials/LaserTag_2.png
+      caption: ""
+      height: 220
+      
+ - title: "Weston-super-Mare beach"
+  date: "June 2024"
+  tag: social
+  images:
+    - src: /assets/images/socials/
+      caption: ""
+      height: 220
+    - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
-    - { placeholder: true, height: 230 }
-    - { placeholder: true, height: 180 }
+
+  - title: "German Beers"
+  date: "May 2024"
+  tag: social
+  images:
+    - src: /assets/images/socials/
+      caption: ""
+      height: 220
+    - { placeholder: true, height: 240 }
+    - { placeholder: true, height: 160 }
+
+
 
 - title: "Field Trip — Fig Text Location"
   date: "Jun 2024"
