@@ -22,32 +22,15 @@
     - src: /assets/images/socials/TreeTop.jpeg
       caption: ""
       height: 220
-    - { placeholder: true, height: 240 }
-    - { placeholder: true, height: 160 }
-    - { placeholder: true, height: 200 }
-    - { placeholder: true, height: 220 }
 
 - title: "Chinese New Year - Horse"
   date: "February 2026"
   tag: social
   images:
-    - { placeholder: true, height: 220 }
-    - { placeholder: true, height: 240 }
-    - { placeholder: true, height: 160 }
-    - { placeholder: true, height: 200 }
-    - { placeholder: true, height: 220 }
-
-- title: "Darts🎯"
-  date: "March 2024"
-  tag: social
-  images:
-    - src: /assets/images/socials/Mar_24_darts.jpg
-      caption: "Darts night"
+   - src: /assets/images/socials/CNY_2026.jpeg
+      caption: ""
       height: 220
-    - { placeholder: true, height: 240 }
-    - { placeholder: true, height: 160 }
-    - { placeholder: true, height: 200 }
-    - { placeholder: true, height: 220 }
+
 
 - title: "Cricket🏏"
   date: "February 2025"
@@ -91,6 +74,18 @@
     - { placeholder: true, height: 220 }
     - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
+
+ - title: "Darts🎯"
+  date: "March 2024"
+  tag: social
+  images:
+  - src: /assets/images/socials/Mar_24_darts.jpg
+    caption: "Darts night"
+    height: 220
+  - { placeholder: true, height: 240 }
+  - { placeholder: true, height: 160 }
+  - { placeholder: true, height: 200 }
+  - { placeholder: true, height: 220 }
 
 - title: "Chinese New Year - Dragon"
   date: "February 2024"
