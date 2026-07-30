@@ -97,7 +97,13 @@
     - src: /assets/images/socials/CNY_2024_2.jpeg
       caption: ""
       height: 180
-
+    - src: /assets/images/socials/CNY_2024_3.jpeg
+      caption: ""
+      height: 200
+    - src: /assets/images/socials/CNY_2024_4.jpeg
+      caption: ""
+      height: 220
+      
 - title: "Field Trip — Fig Text Location"
   date: "Jun 2024"
   tag: fieldwork
