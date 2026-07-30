@@ -24,7 +24,7 @@ permalink: /model-outputs/
         <div class="model-desc">{{ item.description }}</div>
         <div class="model-meta">
           <span class="model-tag">{{ item.tag }}</span>
-          <a class="model-link" href="{{ item.link }}">Download <i class="ti ti-download"></i></a>
+          <a class="model-link" href="{{ item.link }}" target="_blank" rel="noopener noreferrer">Visit <i class="ti ti-external-link"></i></a>
         </div>
       </div>
     </div>
