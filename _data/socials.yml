@@ -19,7 +19,7 @@
   date: "June 2026"
   tag: social
   images:
-    - src: /assets/images/socials/
+    - src: /assets/images/socials/TreeTop.jpeg
       caption: ""
       height: 220
     - { placeholder: true, height: 240 }
@@ -27,13 +27,11 @@
     - { placeholder: true, height: 200 }
     - { placeholder: true, height: 220 }
 
-  - title: "Chinese New Year - Horse"
+- title: "Chinese New Year - Horse"
   date: "February 2026"
   tag: social
   images:
-    - src: /assets/images/socials/
-      caption: ""
-      height: 220
+    - { placeholder: true, height: 220 }
     - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
     - { placeholder: true, height: 200 }
@@ -51,7 +49,7 @@
     - { placeholder: true, height: 200 }
     - { placeholder: true, height: 220 }
 
-  - title: " Cricket🏏"
+- title: "Cricket🏏"
   date: "February 2025"
   tag: social
   images:
@@ -63,11 +61,11 @@
 
 - title: "French Taste"
   date: "September 2024"
-  tag: Dinner
+  tag: social
   images:
     - { placeholder: true, height: 200 }
 
-  - title: "Laster Tag v.s. BCD"
+- title: "Laser Tag v.s. BCD"
   date: "June 2024"
   tag: social
   images:
@@ -77,24 +75,20 @@
     - src: /assets/images/socials/LaserTag_2.png
       caption: ""
       height: 220
-      
- - title: "Weston-super-Mare beach"
+
+- title: "Weston-super-Mare beach"
   date: "June 2024"
   tag: social
   images:
-    - src: /assets/images/socials/
-      caption: ""
-      height: 220
+    - { placeholder: true, height: 220 }
     - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
 
-  - title: "German Beers"
+- title: "German Beers"
   date: "May 2024"
   tag: social
   images:
-    - src: /assets/images/socials/
-      caption: ""
-      height: 220
+    - { placeholder: true, height: 220 }
     - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
 
@@ -108,8 +102,6 @@
     - src: /assets/images/socials/CNY_2024_2.jpeg
       caption: ""
       height: 180
-
-
 
 - title: "Field Trip — Fig Text Location"
   date: "Jun 2024"
