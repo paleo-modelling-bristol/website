@@ -21,6 +21,8 @@ Two ways to make changes, pick whichever suits the edit:
 
 Either way, pushing to `main` triggers GitHub Pages to rebuild automatically — changes go live within a minute or two.
 
+**A broken `_data/*.yml` file (bad indentation, etc.) fails the entire site build, not just one page** — GitHub Pages then silently keeps serving the last working build, so nothing looks "broken" until someone notices the site stopped updating. Every push now also runs a [GitHub Actions check](.github/workflows/validate.yml) that does the same `jekyll build` — if you broke something, it shows up as a red ❌ next to your commit (or on the PR) within a minute, so check there if the site doesn't seem to be updating after a push.
+
 ## Adding/editing a person
 
 Copy an existing file in `_people/` (e.g. `_people/yixuan.md`) as a starting point. Each file has two ways to show a profile — the comment block at the top of the file explains both:
