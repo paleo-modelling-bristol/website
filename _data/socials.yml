@@ -14,6 +14,11 @@
 #
 # Until real photos are added, `placeholder: true` entries render an empty tile
 # (same behaviour as the old static site) so the gallery layout still looks right.
+#
+# IMPORTANT: every `- title:` entry below must be indented exactly the same
+# (0 spaces), and every field inside one `images:` list item must line up
+# under the letter after "- " (e.g. "src"). Mixing indentation levels breaks
+# this whole file and takes the entire site down, not just this page.
 
 - title: "Treetops High Ropes"
   date: "June 2026"
@@ -27,10 +32,9 @@
   date: "February 2026"
   tag: social
   images:
-   - src: /assets/images/socials/CNY_2026.jpeg
+    - src: /assets/images/socials/CNY_2026.jpeg
       caption: ""
       height: 220
-
 
 - title: "Cricket🏏"
   date: "February 2025"
@@ -63,7 +67,7 @@
   date: "June 2024"
   tag: social
   images:
-     - src: /assets/images/socials/Beacg_2024_1.png
+    - src: /assets/images/socials/Beach_2024_1.jpeg
       caption: ""
       height: 220
 
@@ -75,17 +79,17 @@
     - { placeholder: true, height: 240 }
     - { placeholder: true, height: 160 }
 
- - title: "Darts🎯"
+- title: "Darts🎯"
   date: "March 2024"
   tag: social
   images:
-  - src: /assets/images/socials/Mar_24_darts.jpg
-    caption: "Darts night"
-    height: 220
-  - { placeholder: true, height: 240 }
-  - { placeholder: true, height: 160 }
-  - { placeholder: true, height: 200 }
-  - { placeholder: true, height: 220 }
+    - src: /assets/images/socials/Mar_24_darts.jpg
+      caption: "Darts night"
+      height: 220
+    - { placeholder: true, height: 240 }
+    - { placeholder: true, height: 160 }
+    - { placeholder: true, height: 200 }
+    - { placeholder: true, height: 220 }
 
 - title: "Chinese New Year - Dragon"
   date: "February 2024"
@@ -103,7 +107,7 @@
     - src: /assets/images/socials/CNY_2024_4.jpeg
       caption: ""
       height: 220
-      
+
 - title: "Field Trip — Fig Text Location"
   date: "Jun 2024"
   tag: fieldwork
