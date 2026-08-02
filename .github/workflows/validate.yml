@@ -1,10 +1,13 @@
 name: Validate site build
 
 # This does NOT deploy the site — GitHub Pages still builds and deploys on
-# its own via Settings > Pages. This workflow just runs the same `jekyll
-# build` on every push/PR so a broken _data/*.yml or _people/*.md front
-# matter shows up as a red X on the commit right away, instead of silently
-# breaking the live site until someone notices.
+# its own via Settings > Pages. This workflow runs the same `jekyll build`
+# on every push/PR so a broken _data/*.yml file shows up as a red X right
+# away instead of silently breaking the whole site. It also separately
+# checks that every _people/*.md file's name/section/role actually parsed
+# to a non-empty value — a broken front matter block in one person's file
+# doesn't fail `jekyll build` at all, it just silently renders that one
+# page blank, so the build step alone can't catch it.
 
 on:
   push:
@@ -25,3 +28,6 @@ jobs:
 
       - name: Build site with Jekyll
         run: bundle exec jekyll build
+
+      - name: Check required fields on _people/*.md
+        run: ruby .github/scripts/check_people.rb
