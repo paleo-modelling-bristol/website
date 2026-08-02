@@ -11,7 +11,10 @@ VALID_SECTIONS = %w[pi postdoc pgr visitor old_friends].freeze
 errors = []
 
 Dir.glob("_people/*.md").sort.each do |file|
-  content = File.read(file)
+  # Normalize CRLF to LF first — files edited on Windows or uploaded through
+  # GitHub's web editor sometimes keep \r\n line endings, which would
+  # otherwise make this \n-based regex fail to find the front matter at all.
+  content = File.read(file).gsub("\r\n", "\n")
   match = content.match(/\A---\n(.*?\n)---\n/m)
 
   if match.nil?
