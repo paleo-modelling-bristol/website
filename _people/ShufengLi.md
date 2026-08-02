@@ -14,15 +14,14 @@
 name: "Shufeng Li"
 section: visitor
 role: "Professor"
-affiliation: "Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences", 
+affiliation: "Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
 # starting with /assets/images/people/... (put the image file there first).
-photo: "/assets/images/people/Shufeng.jpeg"
+photo: "/assets/images/people/Shufeng.png"
 external_profile: ""
 email: "sl17443@bristol.ac.uk"
 website: "https://people.ucas.ac.cn/~lisf?language=en"
-Google scholar: "https://scholar.google.com/citations?user=8SXyw10AAAAJ&hl=en"
-github："https://github.com/Shufeng-Li"
+scholar: "https://scholar.google.com/citations?user=8SXyw10AAAAJ&hl=en"
 research_interests:
   - "Palynology"
   - "Paleoclimate modeling"
