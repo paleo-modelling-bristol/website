@@ -18,7 +18,7 @@ affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
 # starting with /assets/images/people/... (put the image file there first).
 photo: "/assets/images/people/XinRen.png"
-external_profile: ""
+external_profile: "https://research-information.bris.ac.uk/en/persons/xin-ren/"
 email: "xinxin.ren@bristol.ac.uk"
 website: "https://orcid.org/0000-0003-4849-4671"
 scholar: "https://scholar.google.com/citations?user=EwGNU78AAAAJ&hl=en"
