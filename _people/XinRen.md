@@ -20,7 +20,7 @@ affiliation: "University of Bristol"
 photo: "/assets/images/people/XinRen.png"
 external_profile: ""
 email: "xinxin.ren@bristol.ac.uk"
-website: "[https://orcid.org/0000-0002-6031-3426](https://orcid.org/0000-0003-4849-4671)"
+website: "https://orcid.org/0000-0003-4849-4671"
 scholar: "https://scholar.google.com/citations?user=EwGNU78AAAAJ&hl=en"
 social_media: " "
 research_interests:
