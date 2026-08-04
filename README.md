@@ -84,6 +84,17 @@ Edit `_data/seminars.yml`, grouped by year:
 
 To add a new year, add another `- year: ...` block; to add a talk, add another entry to that year's `talks:` list. `upcoming: true` adds an "Upcoming" badge and makes the talk show up under the "Upcoming" filter button on `/group-meeting/`.
 
+## Updating the homepage hero photo
+
+The banner image behind the homepage title (`assets/images/hero_collage.jpg`) is a grid built from photos in `assets/images/socials/` — it's not something to edit by hand. To refresh it (e.g. with more recent socials photos):
+
+```
+pip install pillow
+python scripts/build_hero_collage.py
+```
+
+Edit the `PHOTOS` list at the top of `scripts/build_hero_collage.py` to change which photos are used — see the comments in that file for how to fix the crop on a photo if it doesn't frame people well by default. Re-run the script and commit the regenerated `hero_collage.jpg`.
+
 ## Adding a new page
 
 1. Create a new file in `_pages/`, e.g. `_pages/resources.md`, with front matter:
