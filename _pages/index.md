@@ -24,29 +24,29 @@ title: "Home"
 
     <div class="cards-stack">
 
-      <div class="card">
-        <div class="card-img">[ Replace with people image ]</div>
+      <div class="card-icon">
+        <div class="card-icon-badge"><i class="ti ti-users"></i></div>
         <div class="card-body">
           <h3>People</h3>
-          <p>Fig text fig text fig text meet our team of researchers.</p>
+          <p>Meet our team of researchers.</p>
           <a class="card-link" href="{{ '/people/' | relative_url }}">View People <i class="ti ti-arrow-right"></i></a>
         </div>
       </div>
 
-      <div class="card">
-        <div class="card-img">[ Replace with publications image ]</div>
+      <div class="card-icon">
+        <div class="card-icon-badge"><i class="ti ti-books"></i></div>
         <div class="card-body">
           <h3>Publications</h3>
-          <p>Fig text fig text fig text browse our recent publications.</p>
+          <p>Browse our recent publications.</p>
           <a class="card-link" href="{{ '/publications/' | relative_url }}">View Publications <i class="ti ti-arrow-right"></i></a>
         </div>
       </div>
 
-      <div class="card">
-        <div class="card-img">[ Replace with join us image ]</div>
+      <div class="card-icon">
+        <div class="card-icon-badge"><i class="ti ti-door-enter"></i></div>
         <div class="card-body">
           <h3>Join Us</h3>
-          <p>Fig text fig text fig text open positions in the group.</p>
+          <p>Open positions in the group.</p>
           <a class="card-link" href="{{ '/join/' | relative_url }}">View Positions <i class="ti ti-arrow-right"></i></a>
         </div>
       </div>
