@@ -4,6 +4,7 @@ permalink: /
 title: "Home"
 ---
 <div class="hero">
+  <img src="{{ '/assets/images/hero_collage.jpg' | relative_url }}" alt="Photos from the group's socials">
   <div class="hero-overlay"></div>
   <div class="hero-text">
     <h1>{{ site.title }}</h1>
