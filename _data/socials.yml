@@ -11,6 +11,7 @@
 #   - video: /assets/videos/your-video.mp4
 #     thumb: /assets/images/socials/your-thumbnail.jpg
 #     caption: "Caption text"
+#     height: 220   # optional, same as photos above
 #
 # Until real photos are added, `placeholder: true` entries render an empty tile
 # (same behaviour as the old static site) so the gallery layout still looks right.
@@ -86,7 +87,10 @@
     - src: /assets/images/socials/Mar_24_darts.jpg
       caption: "Darts night"
       height: 220
-    - { placeholder: true, height: 240 }
+    - video: /assets/videos/darts_flight_club_stories.mp4
+      thumb: /assets/images/socials/darts_video_thumb.jpg
+      caption: "Flight Club Stories"
+      height: 220
     - { placeholder: true, height: 160 }
     - { placeholder: true, height: 200 }
     - { placeholder: true, height: 220 }

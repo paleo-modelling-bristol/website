@@ -28,7 +28,7 @@ permalink: /socials/
       <div class="masonry-placeholder" style="height:{{ img.height }}px;">[ photo ]</div>
       {% elsif img.video %}
       <div class="masonry-item video-item" data-video="{{ img.video | relative_url }}" data-caption="{{ img.caption }}">
-        <img src="{{ img.thumb | relative_url }}" alt="{{ img.caption }}">
+        <img src="{{ img.thumb | relative_url }}" alt="{{ img.caption }}"{% if img.height %} style="height:{{ img.height }}px; object-fit: cover;"{% endif %}>
         <div class="video-overlay"><div class="play-btn"><i class="ti ti-player-play-filled"></i></div></div>
       </div>
       {% else %}
