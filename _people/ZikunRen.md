@@ -17,7 +17,7 @@ role: "Senior Research Associate"
 affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
 # starting with /assets/images/people/... (put the image file there first).
-photo: "/assets/images/people/Zikun.jpg"
+photo: "/assets/images/people/Zikun2.jpg"
 external_profile: ""
 email: "zikun.ren@bristol.ac.uk"
 website: ""
