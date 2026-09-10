@@ -33,12 +33,3 @@ I am a postdoc at the Paleo Modelling Group, working on Past2Future project.
 
 
 ## Publications
-
-
-
-
-## Education
-
-
-## Publications
-
