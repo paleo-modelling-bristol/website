@@ -1,3 +1,4 @@
+---
 # ── name / section / role are always required ──────────────────────────────
 # section must be one of: pi / postdoc / pgr / visitor / old_friends
 # (defined in _pages/people.md) — without one of these five, this person
