@@ -27,7 +27,7 @@ research_interests:
   - ""
 ---
 ## About
-
+I am a postdoc at the Paleo Modelling Group, working on Past2Future project.
 
 ## Education
 
@@ -35,9 +35,7 @@ research_interests:
 ## Publications
 
 
-## About
 
-I am a postdoc at the Paleo Modelling Group, working on Past2Future project.
 
 ## Education
 
