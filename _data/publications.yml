@@ -16,7 +16,7 @@
   year: 2026
   doi: "https://doi.org/10.1126/sciadv.aeb7653"
 - title: "What was the role of palaeogeography in East Asian monsoon evolution since the Cretaceous?"
-  authors: "<strong>Farnsworth, A.</strong>, Lunt, D. J., <strong>Valdes, P. J.</strong>, Spicer, R. A., Robinson, S. A., Ding, L., Xiong, Z., Witkowski, C., Scotese, C., Markwick, P. & Pancost, R."
+  authors: "<strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong>, Spicer, R. A., Robinson, S. A., Ding, L., Xiong, Z., Witkowski, C., Scotese, C., Markwick, P. & Pancost, R."
   journal: "National Science Review"
   year: 2026
   doi: "https://doi.org/10.1093/nsr/nwag534"
@@ -41,7 +41,7 @@
   year: 2026
   doi: "https://doi.org/10.1016/j.palaeo.2026.113688"
 - title: "Tight regulation of Earth's long-term temperature over Phanerozoic time"
-  authors: "Zheng, D., Lipp, A. G., <strong>Farnsworth, A.</strong>, <strong>Li, S.</strong>, Merdith, A. S., Gurung, K., Hou, M., Chen, A., Hou, Z., Lunt, D. J., Sperling, E. A., <strong>Valdes, P. J.</strong> & Mills, B. J. W."
+  authors: "Zheng, D., Lipp, A. G., <strong>Farnsworth, A.</strong>, <strong>Li, S.</strong>, Merdith, A. S., Gurung, K., Hou, M., Chen, A., Hou, Z., <strong>Lunt, D. J.</strong>, Sperling, E. A., <strong>Valdes, P. J.</strong> & Mills, B. J. W."
   journal: "Nature Communications"
   year: 2026
   doi: "https://doi.org/10.1038/s41467-026-72672-6"
@@ -56,7 +56,7 @@
   year: 2026
   doi: "https://doi.org/10.1002/ece3.73125"
 - title: "The relative role of direct orbital forcing versus CO2 and ice feedbacks on Quaternary climate"
-  authors: "<strong>Williams, C. J. R.</strong>, Lord, N. S., Kennedy-Asser, A. T., <strong>Ren, X.</strong>, Richards, D. A., Crucifix, M., Kontula, A., Thorne, M., <strong>Valdes, P. J.</strong>, Foster, G. L., Brown, R. M., McClymont, E. L. & Lunt, D. J."
+  authors: "<strong>Williams, C. J. R.</strong>, Lord, N. S., Kennedy-Asser, A. T., <strong>Ren, X.</strong>, Richards, D. A., Crucifix, M., Kontula, A., Thorne, M., <strong>Valdes, P. J.</strong>, Foster, G. L., Brown, R. M., McClymont, E. L. & <strong>Lunt, D. J.</strong>"
   journal: "Nature Communications"
   year: 2026
   doi: "https://doi.org/10.1038/s41467-026-70750-3"
@@ -95,13 +95,18 @@
   journal: "Chinese Science Bulletin"
   year: 2026
   doi: "https://doi.org/10.1360/CSB-2025-0232"
+- title: "Atmospheric Stabilization Weakened Proto-Low-Level Jet Over the Indian Ocean During the Eocene Hothouse"
+  authors: "Kad, P., Steinig, S., de Boer, A., Chan, W., Hutchinson, D., Ha, K., Thirumalai, K., <strong>Lunt, D. J.</strong>, Niezgodzki, I., Parekh, A. & Saini, H."
+  journal: "Paleoceanography and Paleoclimatology"
+  year: 2026
+  doi: "https://doi.org/10.1029/2025PA005244"
 - title: "Miocene Ocean Gyre Circulation and Gateway Transports—MioMIP1 Ocean Intercomparison"
-  authors: "Naik, T. J., de Boer, A. M., Coxall, H. K., Burls, N. J., Bradshaw, C. D., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., Huber, M., Karami, M. P., Knorr, G., LeGrande, A. N., Li, Y., Lohmann, G., Lunt, D. J., Prange, M. & Zhang, Y."
+  authors: "Naik, T. J., de Boer, A. M., Coxall, H. K., Burls, N. J., Bradshaw, C. D., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., Huber, M., Karami, M. P., Knorr, G., LeGrande, A. N., Li, Y., Lohmann, G., <strong>Lunt, D. J.</strong>, Prange, M. & Zhang, Y."
   journal: "Paleoceanography and Paleoclimatology"
   year: 2025
   doi: "https://doi.org/10.1029/2025PA005194"
 - title: "MioVeg1: A Global Middle Miocene Vegetation Reconstruction for Climate Modeling"
-  authors: "Bradshaw, C. D., Fletcher, T., Reichgelt, T., Akgün, F., Cantrill, D. J., Casas‐Gallego, M., Doláková, N., Erdei, B., Kayseri‐Özer, M. S., Kováčová, M., Ochoa, D., Pound, M., Utescher, T., Zhao, J., Sepulchre, P., Feakins, S. J., Ivanov, D., <strong>Li, S.</strong>, Miao, Y., Worobiec, E., Strömberg, C. A. E., Novak, J., Herold, N., Huber, M., Frigola, A., Prange, M., Knorr, G., Lohmann, G., <strong>Farnsworth, A.</strong>, Li, Y., Lunt, D. J., Pillot, Q., Donnadieu, Y., Acosta, R. P. & Burls, N."
+  authors: "Bradshaw, C. D., Fletcher, T., Reichgelt, T., Akgün, F., Cantrill, D. J., Casas‐Gallego, M., Doláková, N., Erdei, B., Kayseri‐Özer, M. S., Kováčová, M., Ochoa, D., Pound, M., Utescher, T., Zhao, J., Sepulchre, P., Feakins, S. J., Ivanov, D., <strong>Li, S.</strong>, Miao, Y., Worobiec, E., Strömberg, C. A. E., Novak, J., Herold, N., Huber, M., Frigola, A., Prange, M., Knorr, G., Lohmann, G., <strong>Farnsworth, A.</strong>, Li, Y., <strong>Lunt, D. J.</strong>, Pillot, Q., Donnadieu, Y., Acosta, R. P. & Burls, N."
   journal: "Paleoceanography and Paleoclimatology"
   year: 2025
   doi: "https://doi.org/10.1029/2025pa005213"
@@ -116,7 +121,7 @@
   year: 2025
   doi: "https://doi.org/10.1029/2025gl114906"
 - title: "Unravelling the drivers of marine biodiversity across the Phanerozoic"
-  authors: "Balembois, A., Pohl, A., Lefebvre, B., Servais, T., Lunt, D. J., <strong>Valdes, P. J.</strong> & Beaugrand, G."
+  authors: "Balembois, A., Pohl, A., Lefebvre, B., Servais, T., <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong> & Beaugrand, G."
   journal: "Nature Communications"
   year: 2025
   doi: "https://doi.org/10.1038/s41467-025-63428-9"
@@ -125,33 +130,43 @@
   journal: "Science Advances"
   year: 2025
   doi: "https://doi.org/10.1126/sciadv.adu8589"
+- title: "A new exceptionally preserved phosphatocopid crustacean from the Furongian of Laurentia and a synthesis of Cambrian phosphatocopid distribution patterns"
+  authors: "Reynolds, R. W., Wong Hearing, T. W., Williams, M., Harvey, T., Yanagihara, A., Murdock, D., Repetski, J., Loch, J., <strong>Lunt, D. J.</strong> & Gostling, N. J."
+  journal: "Journal of Paleontology"
+  year: 2025
+  doi: "https://doi.org/10.1017/jpa.2025.10180"
 - title: "Global climate model comparisons of niche evolution in turritelline gastropods across the Cretaceous–Paleogene mass extinction"
-  authors: "Goodman, A. M., Anderson, B. M., Allmon, W. D., Crowley, K. D., <strong>Farnsworth, A.</strong>, Hopkins, M. J., Lunt, D. J. & Myers, C. E."
+  authors: "Goodman, A. M., Anderson, B. M., Allmon, W. D., Crowley, K. D., <strong>Farnsworth, A.</strong>, Hopkins, M. J., <strong>Lunt, D. J.</strong> & Myers, C. E."
   journal: "Paleobiology"
   year: 2025
   doi: "https://doi.org/10.1017/pab.2025.10050"
 - title: "Global Climate System Response to SOFIA Antarctic Meltwater"
-  authors: "Mistry, A., Lunt, D. & <strong>Ren, X.</strong>"
+  authors: "Mistry, A., <strong>Lunt, D.</strong> & <strong>Ren, X.</strong>"
   journal: "EGUsphere [preprint]"
   year: 2025
   doi: "https://egusphere.copernicus.org/preprints/2025/egusphere-2025-2750/"
 - title: "The progressive co-evolutionary development of the Pan-Tibetan Highlands, the Asian monsoon system and Asian biodiversity"
-  authors: "Spicer, R. A., <strong>Farnsworth, A.</strong>, Su, T., Ding, L., Witkowski, C. R., <strong>Li, S.-F.</strong>, Xiong, Z., Zhou, Z., Li, S., Hughes, A. C., <strong>Valdes, P. J.</strong>, Widdowson, M., Zhang, X., He, S., Liu, J., Huang, J., Herman, A. B., Xu, Q., Liu, X., Jin, J., Pancost, R. D., Lunt, D. J. & Zhang, S."
+  authors: "Spicer, R. A., <strong>Farnsworth, A.</strong>, Su, T., Ding, L., Witkowski, C. R., <strong>Li, S.-F.</strong>, Xiong, Z., Zhou, Z., Li, S., Hughes, A. C., <strong>Valdes, P. J.</strong>, Widdowson, M., Zhang, X., He, S., Liu, J., Huang, J., Herman, A. B., Xu, Q., Liu, X., Jin, J., Pancost, R. D., <strong>Lunt, D. J.</strong> & Zhang, S."
   journal: "Geological Society, London, Special Publications"
   year: 2025
   doi: "https://doi.org/10.1144/SP549-2023-180"
 - title: "Climate drivers and palaeobiogeography of lagerpetids and early pterosaurs"
-  authors: "Foffa, D., Dunne, E. M., Chiarenza, A. A., Wynd, B. M., <strong>Farnsworth, A.</strong>, Lunt, D. J., <strong>Valdes, P. J.</strong>, Nesbitt, S. J., Kligman, B. T., Marsh, A. D., Parker, W. G., Butler, R. J., Fraser, N. C., Brusatte, S. L. & Barrett, P. M."
+  authors: "Foffa, D., Dunne, E. M., Chiarenza, A. A., Wynd, B. M., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong>, Nesbitt, S. J., Kligman, B. T., Marsh, A. D., Parker, W. G., Butler, R. J., Fraser, N. C., Brusatte, S. L. & Barrett, P. M."
   journal: "Nature Ecology and Evolution"
   year: 2025
   doi: "https://doi.org/10.1038/s41559-025-02767-8"
+- title: "Stronger and prolonged El Niño-Southern Oscillation in the Early Eocene warmth"
+  authors: "Abhik, S., Dommenget, D., McGregor, S., Hutchinson, D. K., Steinig, S., Zhu, J., Capitanio, F. A., <strong>Lunt, D. J.</strong>, Niezgodzki, I., Knorr, G., Chan, W. L. & Abe-Ouchi, A."
+  journal: "Nature Communications"
+  year: 2025
+  doi: "https://doi.org/10.1038/s41467-025-59263-7"
 - title: "Dynamic environment but no temperature change since the late Paleogene at Lühe Basin (Yunnan, China)"
   authors: "Witkowski, C. R., Lauretano, V., <strong>Farnsworth, A.</strong>, <strong>Li, S. F.</strong>, Li, S. H., Mayser, J. P., Naafs, B. D. A., Wei, J., Spicer, R. A., Su, T., Tang, H., Zhou, Z. K., <strong>Valdes, P. J.</strong> & Pancost, R. D."
   journal: "Palaeogeography, Palaeoclimatology, Palaeoecology"
   year: 2025
   doi: "https://doi.org/10.1016/j.palaeo.2025.112920"
 - title: "Landscape-explicit phylogeography illuminates the ecographic radiation of early archosauromorph reptiles"
-  authors: "Flannery-Sutherland, J. T., Elsler, A., <strong>Farnsworth, A.</strong>, Lunt, D. J. & Benton, M. J."
+  authors: "Flannery-Sutherland, J. T., Elsler, A., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong> & Benton, M. J."
   journal: "Nature Ecology and Evolution"
   year: 2025
   doi: "https://doi.org/10.1038/s41559-025-02739-y"
@@ -161,7 +176,7 @@
   year: 2025
   doi: "https://doi.org/10.1007/s11430-024-1561-y"
 - title: "Joint Effects of Coastal and Inland Mountains on East Asian Climate During the Late Cretaceous"
-  authors: "Yu, C., Lunt, D. J., <strong>Ren, X.</strong>, Zhang, L. & Wang, C."
+  authors: "Yu, C., <strong>Lunt, D. J.</strong>, <strong>Ren, X.</strong>, Zhang, L. & Wang, C."
   journal: "Geophysical Research Letters"
   year: 2025
   doi: "https://doi.org/10.1029/2024GL114228"
@@ -176,7 +191,7 @@
   year: 2025
   doi: "https://doi.org/10.1016/j.cub.2025.03.025"
 - title: "Marine animal diversity across latitudinal and temperature gradients during the Phanerozoic"
-  authors: "Benson, R. B. J., Close, R. A., Antell, G. T., Whittaker, R. J., <strong>Valdes, P.</strong>, <strong>Farnsworth, A.</strong>, Lunt, D. J., Shen, S., Fan, J. & Saupe, E. E."
+  authors: "Benson, R. B. J., Close, R. A., Antell, G. T., Whittaker, R. J., <strong>Valdes, P.</strong>, <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, Shen, S., Fan, J. & Saupe, E. E."
   journal: "Palaeontology"
   year: 2025
   doi: "https://doi.org/10.1111/pala.70006"
@@ -185,18 +200,28 @@
   journal: "Science Advances"
   year: 2025
   doi: "https://doi.org/10.1126/sciadv.adr9417"
+- title: "Poleward expansion of North Pacific gyre circulation during the warm early Eocene inferred from inter-model comparisons"
+  authors: "Zhang, Y., de Boer, A. M., Qin, G., <strong>Lunt, D. J.</strong>, Hutchinson, D. K., Steinig, S., Niezgodzki, I., Wade, B. S., Liu, X., Poulsen, C. J. & Lohmann, G."
+  journal: "Palaeogeography, Palaeoclimatology, Palaeoecology"
+  year: 2025
+  doi: "https://doi.org/10.1016/j.palaeo.2024.112712"
+- title: "Global vegetation zonation and terrestrial climate of the warm Early Eocene"
+  authors: "Thompson, N., Salzmann, U., Hutchinson, D. K., Strother, S. L., Pound, M. J., Utescher, T., Brugger, J., Hickler, T., Hocking, E. P. & <strong>Lunt, D. J.</strong>"
+  journal: "Earth-Science Reviews"
+  year: 2025
+  doi: "https://doi.org/10.1016/j.earscirev.2024.105036"
 - title: "Evaluating migration hypotheses for the extinct Glyptotherium using ecological niche modeling"
   authors: "Magoulick, K. M., Saupe, E. E., <strong>Farnsworth, A.</strong>, <strong>Valdes, P. J.</strong> & Marshall, C. R."
   journal: "Ecography"
   year: 2025
   doi: "https://doi.org/10.1111/ecog.07499"
 - title: "Timing of initial collision and suturing processes in the Himalaya and Zagros"
-  authors: "Wang, C., Ding, L., Xiong, Z., Allen, M. B., Laskowski, A. K., Garzanti, E., Zhang, Q., Cai, F., Wang, H., Song, P., Li, Y., Ping, F., <strong>Farnsworth, A.</strong>, Lunt, D. J., <strong>Valdes, P. J.</strong>, Li, Z., Wu, C. & Qasim, M."
+  authors: "Wang, C., Ding, L., Xiong, Z., Allen, M. B., Laskowski, A. K., Garzanti, E., Zhang, Q., Cai, F., Wang, H., Song, P., Li, Y., Ping, F., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong>, Li, Z., Wu, C. & Qasim, M."
   journal: "Nature Reviews Earth and Environment"
   year: 2025
   doi: "https://doi.org/10.1038/s43017-025-00669-8"
 - title: "Impact of Model Tuning on Simulated Mid-Pliocene Warming"
-  authors: "<strong>Ren, X.</strong>, <strong>Valdes, P. J.</strong>, Lunt, D., Haywood, A. M., Hendy, E. J., Tindall, J. C., Ross, P. I. & Steinig, S."
+  authors: "<strong>Ren, X.</strong>, <strong>Valdes, P. J.</strong>, <strong>Lunt, D.</strong>, Haywood, A. M., Hendy, E. J., Tindall, J. C., Ross, P. I. & Steinig, S."
   journal: "Paleoceanography and Paleoclimatology"
   year: 2025
   doi: "https://doi.org/10.1029/2024PA004976"
@@ -206,7 +231,7 @@
   year: 2025
   doi: "https://doi.org/10.1111/jipb.13773"
 - title: "Ocean Meridional Overturning Circulation During the Early and Middle Miocene"
-  authors: "Naik, T. J., de Boer, A. M., Coxall, H. K., Burls, N. J., Bradshaw, C. D., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., Herold, N., Huber, M., Karami, M. P., Knorr, G., LeGrande, A. N., Li, Y., Lohmann, G., Lunt, D. J., Prange, M. & Zhang, Y."
+  authors: "Naik, T. J., de Boer, A. M., Coxall, H. K., Burls, N. J., Bradshaw, C. D., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., Herold, N., Huber, M., Karami, M. P., Knorr, G., LeGrande, A. N., Li, Y., Lohmann, G., <strong>Lunt, D. J.</strong>, Prange, M. & Zhang, Y."
   journal: "Paleoceanography and Paleoclimatology"
   year: 2025
   doi: "https://doi.org/10.1029/2024PA005055"
@@ -241,7 +266,7 @@
   year: 2025
   doi: "https://doi.org/10.1016/j.pld.2024.07.004"
 - title: "The role of climate on the emergence of giant caimanines (Crocodylia, Alligatoroidea) from the Miocene western Amazonian region"
-  authors: "Paiva, A. L. S., Godoy, P. L., Dunne, E. M., <strong>Farnsworth, A.</strong>, <strong>Valdes, P. J.</strong>, Lunt, D. J., Klein, W., Langer, M. C. & Hsiou, A. S."
+  authors: "Paiva, A. L. S., Godoy, P. L., Dunne, E. M., <strong>Farnsworth, A.</strong>, <strong>Valdes, P. J.</strong>, <strong>Lunt, D. J.</strong>, Klein, W., Langer, M. C. & Hsiou, A. S."
   journal: "Palaeogeography, Palaeoclimatology, Palaeoecology"
   year: 2024
   doi: "https://doi.org/10.1016/j.palaeo.2024.112582"
@@ -251,12 +276,12 @@
   year: 2024
   doi: "https://doi.org/10.1360/TB-2024-1034"
 - title: "Assessing future ice-sheet variability for long-term safety of deep geological repositories"
-  authors: "Liakka, J., Lord, N. S., Kennedy-Asser, A., Lunt, D. J., <strong>Williams, C. J. R.</strong> & Näslund, J.-O."
+  authors: "Liakka, J., Lord, N. S., Kennedy-Asser, A., <strong>Lunt, D. J.</strong>, <strong>Williams, C. J. R.</strong> & Näslund, J.-O."
   journal: "Advances in Geosciences"
   year: 2024
   doi: "https://doi.org/10.5194/adgeo-65-71-2024"
 - title: "Diagnosing the controls on desert dust emissions through the Phanerozoic"
-  authors: "<strong>Xie, Y.</strong>, Lunt, D. & <strong>Valdes, P. J.</strong>"
+  authors: "<strong>Xie, Y.</strong>, <strong>Lunt, D.</strong> & <strong>Valdes, P. J.</strong>"
   journal: "Climate of the Past"
   year: 2024
   doi: "https://doi.org/10.5194/cp-20-2561-2024"
@@ -265,8 +290,13 @@
   journal: "Climate of the Past"
   year: 2024
   doi: "https://doi.org/10.5194/cp-20-2191-2024"
+- title: "Modelling the Impact of Palaeogeographical Changes on Weathering and CO2 during the Cretaceous-Eocene Period"
+  authors: "Hayes, N. R., <strong>Lunt, D. J.</strong>, Goddéris, Y., Pancost, R. D. & Buss, H. L."
+  journal: "Working paper"
+  year: 2024
+  doi: "https://doi.org/10.5194/egusphere-2024-2811"
 - title: "A 485-million-year history of Earth’s surface temperature"
-  authors: "Judd, E. J., Tierney, J. E., Lunt, D. J., Montañez, I. P., Huber, B. T., Wing, S. L. & <strong>Valdes, P. J.</strong>"
+  authors: "Judd, E. J., Tierney, J. E., <strong>Lunt, D. J.</strong>, Montañez, I. P., Huber, B. T., Wing, S. L. & <strong>Valdes, P. J.</strong>"
   journal: "Science"
   year: 2024
   doi: "https://doi.org/10.1126/science.adk3705"
@@ -275,18 +305,28 @@
   journal: "Science"
   year: 2024
   doi: "https://doi.org/10.1126/science.ado2030"
+- title: "DeepMIP-Eocene-p1: multi-model dataset and interactive web application for Eocene climate research"
+  authors: "Steinig, S., Abe-Ouchi, A., de Boer, A. M., Chan, W.-L., Donnadieu, Y., Hutchinson, D. K., Knorr, G., Ladant, J.-B., Morozova, P., Niezgodzki, I., Poulsen, C. J., Volodin, E. M., Zhang, Z., Zhu, J., Evans, D., Inglis, G. N., Meckler, A. N. & <strong>Lunt, D. J.</strong>"
+  journal: "Scientific Data"
+  year: 2024
+  doi: "https://doi.org/10.1038/s41597-024-03773-4"
 - title: "Impact of environmental barriers on temnospondyl biogeography and dispersal during the Middle–Late Triassic"
   authors: "Moreno, R., Dunne, E. M., Mujal, E., <strong>Farnsworth, A.</strong>, <strong>Valdes, P. J.</strong> & Schoch, R. R."
   journal: "Palaeontology"
   year: 2024
   doi: "https://doi.org/10.1111/pala.12724"
+- title: "Paleoclimate data provide constraints on climate models' large-scale response to past CO2 changes"
+  authors: "<strong>Lunt, D. J.</strong>, Otto-Bliesner, B. L., Brierley, C., Haywood, A., Inglis, G. N., Izumi, K., Kageyama, M., Kaufman, D., Mauritsen, T., McClymont, E. L., Salzmann, U., Steinig, S., Tierney, J. E., Zhao, A. & Zhu, J."
+  journal: "Communications Earth & Environment"
+  year: 2024
+  doi: "https://doi.org/10.1038/s43247-024-01531-3"
 - title: "Continuous sterane and phytane δ13C record reveals a substantial pCO2 decline since the mid-Miocene"
   authors: "Witkowski, C., von der Heydt, A. S., <strong>Valdes, P. J.</strong>, van der Meer, M. T. J., Schouten, S. & Damsté, J. S. S."
   journal: "Nature Communications"
   year: 2024
   doi: "https://doi.org/10.1038/s41467-024-47676-9"
 - title: "Decomposition of physical processes controlling EASM precipitation changes during the mid-Piacenzian: new insights into data–model integration"
-  authors: "Sun, Y., Wu, H., Ding, L., Chen, L., Stepanek, C., Zhao, Y., Tan, N., Su, B., Yuan, X., Zhang, W., Liu, B., Hunter, S., Haywood, A., Abe-Ouchi, A., Otto-Bliesner, B., Contoux, C., Lunt, D. J., Dolan, A., Chandan, D., Lohmann, G., Dowsett, H., Tindall, J., Baatsen, M., Peltier, W. R., Li, Q., Feng, R., Salzmann, U., Chan, W. L., Zhang, Z., <strong>Williams, C. J. R.</strong> & Ramstein, G."
+  authors: "Sun, Y., Wu, H., Ding, L., Chen, L., Stepanek, C., Zhao, Y., Tan, N., Su, B., Yuan, X., Zhang, W., Liu, B., Hunter, S., Haywood, A., Abe-Ouchi, A., Otto-Bliesner, B., Contoux, C., <strong>Lunt, D. J.</strong>, Dolan, A., Chandan, D., Lohmann, G., Dowsett, H., Tindall, J., Baatsen, M., Peltier, W. R., Li, Q., Feng, R., Salzmann, U., Chan, W. L., Zhang, Z., <strong>Williams, C. J. R.</strong> & Ramstein, G."
   journal: "npj Climate and Atmospheric Science"
   year: 2024
   doi: "https://doi.org/10.1038/s41612-024-00668-4"
@@ -316,12 +356,12 @@
   year: 2024
   doi: "https://doi.org/10.1038/s41467-024-46843-2"
 - title: "Unraveling weak and short South Asian wet season in the Early Eocene warmth"
-  authors: "Abhik, S., Capitanio, F. A., Dommenget, D., Goswami, B. N., <strong>Farnsworth, A.</strong>, Hutchinson, D. K., Arblaster, J. M., Lunt, D. J. & Steinig, S."
+  authors: "Abhik, S., Capitanio, F. A., Dommenget, D., Goswami, B. N., <strong>Farnsworth, A.</strong>, Hutchinson, D. K., Arblaster, J. M., <strong>Lunt, D. J.</strong> & Steinig, S."
   journal: "Communications Earth and Environment"
   year: 2024
   doi: "https://doi.org/10.1038/s43247-024-01289-8"
 - title: "Climate change is an important predictor of extinction risk on macroevolutionary timescales"
-  authors: "Malanoski, C. M., <strong>Farnsworth, A.</strong>, Lunt, D. J., <strong>Valdes, P. J.</strong> & Saupe, E. E."
+  authors: "Malanoski, C. M., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong> & Saupe, E. E."
   journal: "Science"
   year: 2024
   doi: "https://doi.org/10.1126/science.adj5763"
@@ -340,8 +380,13 @@
   journal: "Evolutionary Human Sciences"
   year: 2024
   doi: "https://doi.org/10.1017/ehs.2023.33"
+- title: "Pliocene Model Intercomparison Project Phase 3 (PlioMIP3) – Science plan and experimental design"
+  authors: "Haywood, A. M., Tindall, J. C., Burton, L. E., Chandler, M. A., Dolan, A. M., Dowsett, H. J., Feng, R., Fletcher, T. L., Foley, K. M., Hill, D. J., Hunter, S. J., Otto-Bliesner, B. L., <strong>Lunt, D. J.</strong>, Robinson, M. M. & Salzmann, U."
+  journal: "Global and Planetary Change"
+  year: 2024
+  doi: "https://doi.org/10.1016/j.gloplacha.2023.104316"
 - title: "A Model-Data Comparison of the Hydrological Response to Miocene Warmth: Leveraging the MioMIP1 Opportunistic Multi-Model Ensemble"
-  authors: "Acosta, R. P., Burls, N. J., Pound, M. J., Bradshaw, C. D., De Boer, A. M., Herold, N., Huber, M., Liu, X., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., Lunt, D. J., von der Heydt, A. S., Hutchinson, D. K., Knorr, G., Lohmann, G., Marzocchi, A., Prange, M., Sarr, A. C., Li, X. & Zhang, Z."
+  authors: "Acosta, R. P., Burls, N. J., Pound, M. J., Bradshaw, C. D., De Boer, A. M., Herold, N., Huber, M., Liu, X., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., <strong>Lunt, D. J.</strong>, von der Heydt, A. S., Hutchinson, D. K., Knorr, G., Lohmann, G., Marzocchi, A., Prange, M., Sarr, A. C., Li, X. & Zhang, Z."
   journal: "Paleoceanography and Paleoclimatology"
   year: 2023
   doi: "https://doi.org/10.1029/2023PA004726"
@@ -351,7 +396,7 @@
   year: 2023
   doi: "https://doi.org/10.1016/j.gloplacha.2023.104313"
 - title: "The hydrological cycle and ocean circulation of the Maritime Continent in the Pliocene: results from PlioMIP2"
-  authors: "<strong>Ren, X.</strong>, Lunt, D. J., Hendy, E., Heydt, A. V. D., Abe-Ouchi, A., Otto-Bliesner, B. L., <strong>Williams, C. J. R.</strong>, Stepanek, C., Guo, C., Chandan, D., Lohmann, G., Tindall, J. C., Sohl, L. E., Chandler, M. A., Kageyama, M., Baatsen, M. L. J., Tan, N., Zhang, Q., Feng, R., Chan, W.-L., Peltier, W. R., Li, X., Kamae, Y., Zhang, Z. & Haywood, A. M."
+  authors: "<strong>Ren, X.</strong>, <strong>Lunt, D. J.</strong>, Hendy, E., Heydt, A. V. D., Abe-Ouchi, A., Otto-Bliesner, B. L., <strong>Williams, C. J. R.</strong>, Stepanek, C., Guo, C., Chandan, D., Lohmann, G., Tindall, J. C., Sohl, L. E., Chandler, M. A., Kageyama, M., Baatsen, M. L. J., Tan, N., Zhang, Q., Feng, R., Chan, W.-L., Peltier, W. R., Li, X., Kamae, Y., Zhang, Z. & Haywood, A. M."
   journal: "Climate of the Past"
   year: 2023
   doi: "https://doi.org/10.5194/cp-19-2053-2023"
@@ -361,10 +406,15 @@
   year: 2023
   doi: "https://doi.org/10.1038/s41561-023-01259-3"
 - title: "Effects of paleogeographic changes and CO2 variability on northern mid-latitudinal temperature gradients in the Cretaceous"
-  authors: "Gianchandani, K., Maor, S., Adam, O., <strong>Farnsworth, A.</strong>, Gildor, H., Lunt, D. J. & Paldor, N."
+  authors: "Gianchandani, K., Maor, S., Adam, O., <strong>Farnsworth, A.</strong>, Gildor, H., <strong>Lunt, D. J.</strong> & Paldor, N."
   journal: "Nature Communications"
   year: 2023
   doi: "https://doi.org/10.1038/s41467-023-40905-7"
+- title: "Global and Zonal-Mean Hydrological Response to Early Eocene Warmth"
+  authors: "Cramwinckel, M. J., Burls, N. J., Fahad, A. A., Knapp, S., West, C. K., Reichgelt, T., Greenwood, D. R., Chan, W. L., Donnadieu, Y., Hutchinson, D. K., de Boer, A. M., Ladant, J. B., Morozova, P. A., Niezgodzki, I., Knorr, G., Steinig, S., Zhang, Z., Zhu, J., Feng, R., <strong>Lunt, D. J.</strong>, Abe-Ouchi, A. & Inglis, G. N."
+  journal: "Paleoceanography and Paleoclimatology"
+  year: 2023
+  doi: "https://doi.org/10.1029/2022PA004542"
 - title: "新生代青藏高原生长对东亚水循环及生态系统的影响 [The growth of the Tibetan Plateau shaped hydrologic cycle and ecosystem in eastern Asia: Progress and perspectives]"
   authors: "<strong>Li, S.</strong>, Zhao, J., <strong>Farnsworth, A.</strong>, <strong>Valdes, P. J.</strong>, Liu, J., Huang, J., Zhou, Z. & Su, T."
   journal: "Kexue Tongbao/Chinese Science Bulletin"
@@ -376,7 +426,7 @@
   year: 2023
   doi: "https://doi.org/10.1016/j.epsl.2023.118040"
 - title: "Modality of the Tropical Rain Belt across Models and Simulated Climates"
-  authors: "Adam, O., <strong>Farnsworth, A.</strong> & Lunt, D. J."
+  authors: "Adam, O., <strong>Farnsworth, A.</strong> & <strong>Lunt, D. J.</strong>"
   journal: "Journal of Climate"
   year: 2023
   doi: "https://doi.org/10.1175/JCLI-D-22-0521.1"
@@ -396,7 +446,7 @@
   year: 2023
   doi: "https://doi.org/10.1016/j.cub.2022.11.056"
 - title: "Unraveling the mechanisms and implications of a stronger mid-Pliocene Atlantic Meridional Overturning Circulation (AMOC) in PlioMIP2"
-  authors: "Weiffenbach, J. E., Baatsen, M. L. J., Dijkstra, H. A., von der Heydt, A. S., Abe-Ouchi, A., Brady, E. C., Chan, W.-L., Chandan, D., Chandler, M. A., Contoux, C., Feng, R., Guo, C., Han, Z., Haywood, A. M., Li, Q., Li, X., Lohmann, G., Lunt, D. J., Nisancioglu, K. H., Otto-Bliesner, B. L., Peltier, W. R., Ramstein, G., Sohl, L. E., Stepanek, C., Tan, N., Tindall, J. C., <strong>Williams, C. J. R.</strong>, Zhang, Q. & Zhang, Z."
+  authors: "Weiffenbach, J. E., Baatsen, M. L. J., Dijkstra, H. A., von der Heydt, A. S., Abe-Ouchi, A., Brady, E. C., Chan, W.-L., Chandan, D., Chandler, M. A., Contoux, C., Feng, R., Guo, C., Han, Z., Haywood, A. M., Li, Q., Li, X., Lohmann, G., <strong>Lunt, D. J.</strong>, Nisancioglu, K. H., Otto-Bliesner, B. L., Peltier, W. R., Ramstein, G., Sohl, L. E., Stepanek, C., Tan, N., Tindall, J. C., <strong>Williams, C. J. R.</strong>, Zhang, Q. & Zhang, Z."
   journal: "Climate of the Past"
   year: 2023
   doi: "https://doi.org/10.5194/cp-19-61-2023"
@@ -406,7 +456,7 @@
   year: 2023
   doi: "https://doi.org/10.1016/j.gloplacha.2022.104009"
 - title: "Climatic controls on the ecological ascendancy of dinosaurs"
-  authors: "Dunne, E. M., <strong>Farnsworth, A.</strong>, Benson, R. B. J., Godoy, P. L., Greene, S. E., <strong>Valdes, P. J.</strong>, Lunt, D. J. & Butler, R. J."
+  authors: "Dunne, E. M., <strong>Farnsworth, A.</strong>, Benson, R. B. J., Godoy, P. L., Greene, S. E., <strong>Valdes, P. J.</strong>, <strong>Lunt, D. J.</strong> & Butler, R. J."
   journal: "Current Biology"
   year: 2022
   doi: "https://doi.org/10.1016/j.cub.2022.11.064"
@@ -415,8 +465,13 @@
   journal: "Science"
   year: 2022
   doi: "https://doi.org/10.1126/science.abo2475"
+- title: "The PhanSST global database of Phanerozoic sea surface temperature proxy data"
+  authors: "Judd, E. J., Tierney, J. E., Huber, B. T., Wing, S. L., <strong>Lunt, D. J.</strong>, Ford, H. L., Inglis, G. N., McClymont, E. L., O’Brien, C. L., Rattanasriampaipong, R., Si, W., Staitis, M. L., Thirumalai, K., Anagnostou, E., Cramwinckel, M. J., Dawson, R. R., Evans, D., Gray, W. R., Grossman, E. L., Henehan, M. J., Hupp, B. N., MacLeod, K. G., O’Connor, L. K., Sánchez Montes, M. L., Song, H. & Zhang, Y. G."
+  journal: "Scientific Data"
+  year: 2022
+  doi: "https://doi.org/10.1038/s41597-022-01826-0"
 - title: "Author Correction: Climatic and tectonic drivers shaped the tropical distribution of coral reefs (Nature Communications, (2022), 13, 1, (3120), 10.1038/s41467-022-30793-8)"
-  authors: "Jones, L. A., Mannion, P. D., <strong>Farnsworth, A.</strong>, Bragg, F. & Lunt, D. J."
+  authors: "Jones, L. A., Mannion, P. D., <strong>Farnsworth, A.</strong>, Bragg, F. & <strong>Lunt, D. J.</strong>"
   journal: "Nature Communications"
   year: 2022
   doi: "https://doi.org/10.1038/s41467-022-31650-4"
@@ -426,7 +481,7 @@
   year: 2022
   doi: "https://doi.org/10.1016/j.scib.2022.10.006"
 - title: "Scleromochlus and the early evolution of Pterosauromorpha"
-  authors: "Foffa, D., Dunne, E. M., Nesbitt, S. J., Butler, R. J., Fraser, N. C., Brusatte, S. L., <strong>Farnsworth, A.</strong>, Lunt, D. J., <strong>Valdes, P. J.</strong>, Walsh, S. & Barrett, P. M."
+  authors: "Foffa, D., Dunne, E. M., Nesbitt, S. J., Butler, R. J., Fraser, N. C., Brusatte, S. L., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong>, Walsh, S. & Barrett, P. M."
   journal: "Nature"
   year: 2022
   doi: "https://doi.org/10.1038/s41586-022-05284-x"
@@ -440,6 +495,16 @@
   journal: "Paleoceanography and Paleoclimatology"
   year: 2022
   doi: "https://doi.org/10.1029/2021PA004257"
+- title: "Plant Proxy Evidence for High Rainfall and Productivity in the Eocene of Australia"
+  authors: "Reichgelt, T., Greenwood, D. R., Steinig, S., Conran, J. G., Hutchinson, D. K., <strong>Lunt, D. J.</strong>, Scriven, L. J. & Zhu, J."
+  journal: "Paleoceanography and Paleoclimatology"
+  year: 2022
+  doi: "https://doi.org/10.1029/2022PA004418"
+- title: "Simulation of Arctic sea ice within the DeepMIP Eocene ensemble: Thresholds, seasonality and factors controlling sea ice development"
+  authors: "Niezgodzki, I., Knorr, G., Lohmann, G., <strong>Lunt, D. J.</strong>, Poulsen, C. J., Steinig, S., Zhu, J., De Boer, A., Chan, W.-L., Donnadieu, Y., Hutchinson, D. K., Ladant, J.-B. & Morozova, P."
+  journal: "Global and Planetary Change"
+  year: 2022
+  doi: "https://doi.org/10.1016/j.gloplacha.2022.103848"
 - title: "Application of ostracod-based carbonate clumped-isotope thermometry to paleo-elevation reconstruction in a hydrologically complex setting: A case study from the northern Tibetan Plateau"
   authors: "Song, B., Zhang, K., <strong>Farnsworth, A.</strong>, Ji, J., Algeo, T. J., Li, X., Xu, Y. & Yang, Y."
   journal: "Gondwana Research"
@@ -456,20 +521,25 @@
   year: 2022
   doi: "https://doi.org/10.1007/s11430-021-9932-2"
 - title: "Climatic and tectonic drivers shaped the tropical distribution of coral reefs"
-  authors: "Jones, L. A., Mannion, P. D., <strong>Farnsworth, A.</strong>, Bragg, F. & Lunt, D. J."
+  authors: "Jones, L. A., Mannion, P. D., <strong>Farnsworth, A.</strong>, Bragg, F. & <strong>Lunt, D. J.</strong>"
   journal: "Nature Communications"
   year: 2022
   doi: "https://doi.org/10.1038/s41467-022-30793-8"
 - title: "African Hydroclimate During the Early Eocene From the DeepMIP Simulations"
-  authors: "<strong>Williams, C. J. R.</strong>, Lunt, D. J., Salzmann, U., Reichgelt, T., Inglis, G. N., Greenwood, D. R., Chan, W., Abe‐ouchi, A., Donnadieu, Y., Hutchinson, D. K., Boer, A. M., Ladant, J., Morozova, P. A., Niezgodzki, I., Knorr, G., Steinig, S., Zhang, Z., Zhu, J., Huber, M. & Otto‐bliesner, B. L."
+  authors: "<strong>Williams, C. J. R.</strong>, <strong>Lunt, D. J.</strong>, Salzmann, U., Reichgelt, T., Inglis, G. N., Greenwood, D. R., Chan, W., Abe‐ouchi, A., Donnadieu, Y., Hutchinson, D. K., Boer, A. M., Ladant, J., Morozova, P. A., Niezgodzki, I., Knorr, G., Steinig, S., Zhang, Z., Zhu, J., Huber, M. & Otto‐bliesner, B. L."
   journal: "Paleoceanography and Paleoclimatology"
   year: 2022
   doi: "https://doi.org/10.1029/2022PA004419"
 - title: "Past terrestrial hydroclimate sensitivity controlled by Earth system feedbacks"
-  authors: "Feng, R., Bhattacharya, T., Otto-Bliesner, B. L., Brady, E. C., Haywood, A. M., Tindall, J. C., Hunter, S. J., Abe-Ouchi, A., Chan, W. L., Kageyama, M., Contoux, C., Guo, C., Li, X., Lohmann, G., Stepanek, C., Tan, N., Zhang, Q., Zhang, Z., Han, Z., <strong>Williams, C. J. R.</strong>, Lunt, D. J., Dowsett, H. J., Chandan, D. & Peltier, W. R."
+  authors: "Feng, R., Bhattacharya, T., Otto-Bliesner, B. L., Brady, E. C., Haywood, A. M., Tindall, J. C., Hunter, S. J., Abe-Ouchi, A., Chan, W. L., Kageyama, M., Contoux, C., Guo, C., Li, X., Lohmann, G., Stepanek, C., Tan, N., Zhang, Q., Zhang, Z., Han, Z., <strong>Williams, C. J. R.</strong>, <strong>Lunt, D. J.</strong>, Dowsett, H. J., Chandan, D. & Peltier, W. R."
   journal: "Nature Communications"
   year: 2022
   doi: "https://doi.org/10.1038/s41467-022-28814-7"
+- title: "Early Eocene ocean meridional overturning circulation: the roles of atmospheric forcing and strait geometry"
+  authors: "Zhang, Y., Boer, A. M., <strong>Lunt, D. J.</strong>, Hutchinson, D. K., Ross, P., Flierdt, T., Sexton, P., Coxall, H. K., Steinig, S., Ladant, J., Zhu, J., Donnadieu, Y., Zhang, Z., Chan, W., Abe‐ouchi, A., Niezgodzki, I., Lohmann, G., Knorr, G., Poulsen, C. J. & Huber, M."
+  journal: "Paleoceanography and Paleoclimatology"
+  year: 2022
+  doi: "https://doi.org/10.1029/2021PA004329"
 - title: "The rise and demise of the Paleogene Central Tibetan Valley"
   authors: "Xiong, Z., Liu, X., Ding, L., <strong>Farnsworth, A.</strong>, Spicer, R. A., Xu, Q., <strong>Valdes, P.</strong>, He, S., Zeng, D., Wang, C., Li, Z., Guo, X., Su, T., Zhao, C., Wang, H. & Yue, Y."
   journal: "Science Advances"
@@ -481,67 +551,82 @@
   year: 2022
   doi: "https://doi.org/10.1016/j.cub.2021.11.061"
 - title: "The Cenozoic history of palms: Global diversification, biogeography and the decline of megathermal forests"
-  authors: "Lim, J. Y., Huang, H., <strong>Farnsworth, A.</strong>, Lunt, D. J., Baker, W. J., Morley, R. J., Kissling, W. D. & Hoorn, C."
+  authors: "Lim, J. Y., Huang, H., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, Baker, W. J., Morley, R. J., Kissling, W. D. & Hoorn, C."
   journal: "Global Ecology and Biogeography"
   year: 2021
   doi: "https://doi.org/10.1111/geb.13436"
 - title: "Evaluating the large-scale hydrological cycle response within the Pliocene Model Intercomparison Project Phase 2 (PlioMIP2) ensemble"
-  authors: "Han, Z., Zhang, Q., Li, Q., Feng, R., Haywood, A. M., Tindall, J. C., Hunter, S. J., Otto-Bliesner, B. L., Brady, E. C., Rosenbloom, N., Zhang, Z., Li, X., Guo, C., Nisancioglu, K. H., Stepanek, C., Lohmann, G., Sohl, L. E., Chandler, M. A., Tan, N., Ramstein, G., Baatsen, M. L. J., Von Der Heydt, A. S., Chandan, D., Peltier, W. R., <strong>Williams, C. J. R.</strong>, Lunt, D. J., Cheng, J., Wen, Q. & Burls, N. J."
+  authors: "Han, Z., Zhang, Q., Li, Q., Feng, R., Haywood, A. M., Tindall, J. C., Hunter, S. J., Otto-Bliesner, B. L., Brady, E. C., Rosenbloom, N., Zhang, Z., Li, X., Guo, C., Nisancioglu, K. H., Stepanek, C., Lohmann, G., Sohl, L. E., Chandler, M. A., Tan, N., Ramstein, G., Baatsen, M. L. J., Von Der Heydt, A. S., Chandan, D., Peltier, W. R., <strong>Williams, C. J. R.</strong>, <strong>Lunt, D. J.</strong>, Cheng, J., Wen, Q. & Burls, N. J."
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-2537-2021"
 - title: "Reduced El Niño variability in the mid-Pliocene according to the PlioMIP2 ensemble"
-  authors: "Oldeman, A. M., Baatsen, M. L. J., Von Der Heydt, A. S., Dijkstra, H. A., Tindall, J. C., Abe-ouchi, A., Booth, A. R., Brady, E. C., Chan, W.-L., Chandan, D., Chandler, M. A., Contoux, C., Feng, R., Guo, C., Haywood, A. M., Hunter, S. J., Kamae, Y., Li, Q., Li, X., Lohmann, G., Lunt, D. J., Nisancioglu, K. H., Otto-bliesner, B. L., Peltier, W. R., Pontes, G. M., Ramstein, G., Sohl, L. E., Stepanek, C., Tan, N., Zhang, Q., Zhang, Z., Wainer, I. & <strong>Williams, C. J. R.</strong>"
+  authors: "Oldeman, A. M., Baatsen, M. L. J., Von Der Heydt, A. S., Dijkstra, H. A., Tindall, J. C., Abe-ouchi, A., Booth, A. R., Brady, E. C., Chan, W.-L., Chandan, D., Chandler, M. A., Contoux, C., Feng, R., Guo, C., Haywood, A. M., Hunter, S. J., Kamae, Y., Li, Q., Li, X., Lohmann, G., <strong>Lunt, D. J.</strong>, Nisancioglu, K. H., Otto-bliesner, B. L., Peltier, W. R., Pontes, G. M., Ramstein, G., Sohl, L. E., Stepanek, C., Tan, N., Zhang, Q., Zhang, Z., Wainer, I. & <strong>Williams, C. J. R.</strong>"
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-2427-2021"
 - title: "Data-constrained assessment of ocean circulation changes since the middle Miocene in an Earth system model"
-  authors: "Crichton, K. A., Ridgwell, A., Lunt, D. J., <strong>Farnsworth, A.</strong> & Pearson, P. N."
+  authors: "Crichton, K. A., Ridgwell, A., <strong>Lunt, D. J.</strong>, <strong>Farnsworth, A.</strong> & Pearson, P. N."
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-2223-2021"
 - title: "Simulation of the mid-Pliocene Warm Period using HadGEM3: experimental design and results from model–model and model–data comparison"
-  authors: "<strong>Williams, C. J. R.</strong>, Sellar, A. A., <strong>Ren, X.</strong>, Haywood, A. M., Hopcroft, P., Hunter, S. J., Roberts, W. H. G., Smith, R. S., Stone, E. J., Tindall, J. C. & Lunt, D. J."
+  authors: "<strong>Williams, C. J. R.</strong>, Sellar, A. A., <strong>Ren, X.</strong>, Haywood, A. M., Hopcroft, P., Hunter, S. J., Roberts, W. H. G., Smith, R. S., Stone, E. J., Tindall, J. C. & <strong>Lunt, D. J.</strong>"
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-2139-2021"
 - title: "Impact of global cooling on Early Cretaceous high pCO2 world during the Weissert Event"
-  authors: "Cavalheiro, L., Wagner, T., Steinig, S., Bottini, C., Dummann, W., Esegbue, O., Gambacorta, G., Giraldo-Gómez, V., <strong>Farnsworth, A.</strong>, Flögel, S., Hofmann, P., Lunt, D. J., Rethemeyer, J., Torricelli, S. & Erba, E."
+  authors: "Cavalheiro, L., Wagner, T., Steinig, S., Bottini, C., Dummann, W., Esegbue, O., Gambacorta, G., Giraldo-Gómez, V., <strong>Farnsworth, A.</strong>, Flögel, S., Hofmann, P., <strong>Lunt, D. J.</strong>, Rethemeyer, J., Torricelli, S. & Erba, E."
   journal: "Nature Communications"
   year: 2021
   doi: "https://doi.org/10.1038/s41467-021-25706-0"
 - title: "Eocene to Oligocene terrestrial Southern Hemisphere cooling caused by declining 𝑝CO2"
-  authors: "Lauretano, V., Kennedy-asser, A. T., Korasidis, V. A., Wallace, M. W., <strong>Valdes, P. J.</strong>, Lunt, D. J., Pancost, R. D. & Naafs, B. D. A."
+  authors: "Lauretano, V., Kennedy-asser, A. T., Korasidis, V. A., Wallace, M. W., <strong>Valdes, P. J.</strong>, <strong>Lunt, D. J.</strong>, Pancost, R. D. & Naafs, B. D. A."
   journal: "Nature Geoscience"
   year: 2021
   doi: "https://doi.org/10.1038/s41561-021-00788-z"
 - title: "Mid-Pliocene West African Monsoon rainfall as simulated in the PlioMIP2 ensemble"
-  authors: "Berntell, E., Zhang, Q., Li, Q., Haywood, A. M., Tindall, J. C., Hunter, S. J., Zhang, Z., Li, X., Guo, C., Nisancioglu, K. H., Stepanek, C., Lohmann, G., Sohl, L. E., Chandler, M. A., Tan, N., Contoux, C., Ramstein, G., Baatsen, M. L. J., Von Der Heydt, A. S., Chandan, D., Peltier, W. R., Abe-Ouchi, A., Chan, W. L., Kamae, Y., <strong>Williams, C. J. R.</strong>, Lunt, D. J., Feng, R., Otto-Bliesner, B. L. & Brady, E. C."
+  authors: "Berntell, E., Zhang, Q., Li, Q., Haywood, A. M., Tindall, J. C., Hunter, S. J., Zhang, Z., Li, X., Guo, C., Nisancioglu, K. H., Stepanek, C., Lohmann, G., Sohl, L. E., Chandler, M. A., Tan, N., Contoux, C., Ramstein, G., Baatsen, M. L. J., Von Der Heydt, A. S., Chandan, D., Peltier, W. R., Abe-Ouchi, A., Chan, W. L., Kamae, Y., <strong>Williams, C. J. R.</strong>, <strong>Lunt, D. J.</strong>, Feng, R., Otto-Bliesner, B. L. & Brady, E. C."
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-1777-2021"
 - title: "Deep ocean temperatures through time"
-  authors: "<strong>Valdes, P. J.</strong>, Scotese, C. R. & Lunt, D. J."
+  authors: "<strong>Valdes, P. J.</strong>, Scotese, C. R. & <strong>Lunt, D. J.</strong>"
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-1483-2021"
 - title: "Multi-variate factorisation of numerical simulations"
-  authors: "Lunt, D. J., Chandan, D., Haywood, A. M., Lunt, G. M., Rougier, J. C., Salzmann, U., Schmidt, G. A. & <strong>Valdes, P. J.</strong>"
+  authors: "<strong>Lunt, D. J.</strong>, Chandan, D., Haywood, A. M., Lunt, G. M., Rougier, J. C., Salzmann, U., Schmidt, G. A. & <strong>Valdes, P. J.</strong>"
   journal: "Geoscientific Model Development"
   year: 2021
   doi: "https://doi.org/10.5194/gmd-14-4307-2021"
+- title: "A multimodel investigation of atmospheric mechanisms for driving arctic amplification in warmer climates"
+  authors: "Dutta, D., Sherwood, S. C., Meissner, K. J., Gupta, A. S. E. N., <strong>Lunt, D. J.</strong>, Tourte, G. J. L., Colman, R., Narsey, S., Fuchs, D. & Brown, J. R."
+  journal: "Journal of Climate"
+  year: 2021
+  doi: "https://doi.org/10.1175/JCLI-D-20-0354.1"
+- title: "Hydrological impact of Middle Miocene Antarctic ice-free areas coupled to deep ocean temperatures"
+  authors: "Bradshaw, C. D., Langebroek, P. M., Lear, C. H., <strong>Lunt, D. J.</strong>, Coxall, H. K., Sosdian, S. M. & de Boer, A. M."
+  journal: "Nature Geoscience"
+  year: 2021
+  doi: "https://doi.org/10.1038/s41561-021-00745-w"
+- title: "The Miocene: The Future of the Past"
+  authors: "Steinthorsdottir, M., Coxall, H. K., de Boer, A. M., Huber, M., Barbolini, N., Bradshaw, C. D., Burls, N. J., Feakins, S. J., Gasson, E., Henderiks, J., Holbourn, A. E., Kiel, S., Kohn, M. J., Knorr, G., Kürschner, W. M., Lear, C. H., Liebrand, D., <strong>Lunt, D. J.</strong>, Mörs, T., Pearson, P. N., Pound, M. J., Stoll, H. & Strömberg, C. A. E."
+  journal: "Paleoceanography and Paleoclimatology"
+  year: 2021
+  doi: "https://doi.org/10.1029/2020PA004037"
 - title: "Paleoclimate model-derived thermal lapse rates: Towards increasing precision in paleoaltimetry studies"
   authors: "<strong>Farnsworth, A. J.</strong>, <strong>Valdes, P. J.</strong>, Spicer, R., Ding, L., Witkowski, C., Lauretano, V., Tao, S., <strong>Li, S. F.</strong>, Li, S.-H. & Zhou, Z."
   journal: "Earth and Planetary Science Letters"
   year: 2021
   doi: "https://doi.org/10.1016/j.epsl.2021.116903"
 - title: "Absolute seasonal temperature estimates from clumped isotopes in bivalve shells suggest warm and variable greenhouse climate"
-  authors: "De Winter, N. J., Müller, I. A., Kocken, I. J., Thibault, N., Ullmann, C. V., <strong>Farnsworth, A.</strong>, Lunt, D. J., Claeys, P. & Ziegler, M."
+  authors: "De Winter, N. J., Müller, I. A., Kocken, I. J., Thibault, N., Ullmann, C. V., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, Claeys, P. & Ziegler, M."
   journal: "Communications Earth & Environment"
   year: 2021
   doi: "https://doi.org/10.1038/s43247-021-00193-9"
 - title: "Simulating Miocene Warmth: Insights From an Opportunistic Multi-Model Ensemble (MioMIP1)"
-  authors: "Burls, N. J., Bradshaw, C. D., De Boer, A. M., Herold, N., Huber, M., Pound, M., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., Gasson, E., von der Heydt, A. S., Hutchinson, D. K., Knorr, G., Lawrence, K. T., Lear, C. H., Li, X., Lohmann, G., Lunt, D. J., Marzocchi, A., Prange, M., Riihimaki, C. A., Sarr, A. C., Siler, N. & Zhang, Z."
+  authors: "Burls, N. J., Bradshaw, C. D., De Boer, A. M., Herold, N., Huber, M., Pound, M., Donnadieu, Y., <strong>Farnsworth, A.</strong>, Frigola, A., Gasson, E., von der Heydt, A. S., Hutchinson, D. K., Knorr, G., Lawrence, K. T., Lear, C. H., Li, X., Lohmann, G., <strong>Lunt, D. J.</strong>, Marzocchi, A., Prange, M., Riihimaki, C. A., Sarr, A. C., Siler, N. & Zhang, Z."
   journal: "Paleoceanography and Paleoclimatology"
   year: 2021
   doi: "https://doi.org/10.1029/2020PA004054"
@@ -551,7 +636,7 @@
   year: 2021
   doi: "https://doi.org/10.1073/pnas.2017105118"
 - title: "Mid-Pliocene Atlantic Meridional Overturning Circulation simulated in PlioMIP2"
-  authors: "Zhang, Z., Li, X., Guo, C., Helge Otterä, O., Nisancioglu, K. H., Tan, N., Contoux, C., Ramstein, G., Feng, R., Otto-Bliesner, B. L., Brady, E., Chandan, D., Richard Peltier, W., Baatsen, M. L. J., Von Der Heydt, A. S., Weiffenbach, J. E., Stepanek, C., Lohmann, G., Zhang, Q., Li, Q., Chandler, M. A., Sohl, L. E., Haywood, A. M., Hunter, S. J., Tindall, J. C., <strong>Williams, C.</strong>, Lunt, D. J., Chan, W. L. & Abe-Ouchi, A."
+  authors: "Zhang, Z., Li, X., Guo, C., Helge Otterä, O., Nisancioglu, K. H., Tan, N., Contoux, C., Ramstein, G., Feng, R., Otto-Bliesner, B. L., Brady, E., Chandan, D., Richard Peltier, W., Baatsen, M. L. J., Von Der Heydt, A. S., Weiffenbach, J. E., Stepanek, C., Lohmann, G., Zhang, Q., Li, Q., Chandler, M. A., Sohl, L. E., Haywood, A. M., Hunter, S. J., Tindall, J. C., <strong>Williams, C.</strong>, <strong>Lunt, D. J.</strong>, Chan, W. L. & Abe-Ouchi, A."
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-529-2021"
@@ -565,13 +650,18 @@
   journal: "Palaeobiodiversity and Palaeoenvironments"
   year: 2021
   doi: "https://doi.org/10.1007/s12549-020-00457-w"
+- title: "The Eocene–Oligocene transition: a review of marine and terrestrial proxy data, models and model–data comparisons"
+  authors: "Hutchinson, D., Coxall, H. K., <strong>Lunt, D. J.</strong>, Steinthorsdottir, M., De Boer, A. M., Baatsen, M. L. J., Von Der Heydt, A. S., Huber, M., Kennedy-Asser, A. T., Kunzmann, L., Ladant, J.-B., Lear, C., Moraweck, K., Pearson, P. N., Piga, E., Pound, M. J., Salzmann, U., Scher, H., Sijp, W., Śliwińska, K., Wilson, P. & Zhang, Z."
+  journal: "Climate of the Past"
+  year: 2021
+  doi: "https://doi.org/10.5194/cp-17-269-2021"
 - title: "Orographic evolution of northern Tibet shaped vegetation and plant diversity in eastern Asia"
-  authors: "<strong>Li, S.</strong>, <strong>Valdes, P. J.</strong>, <strong>Farnsworth, A. J.</strong>, Davies-Barnard, T., Tao, S., Lunt, D. J., Spicer, R. A., Liu, J., Huang, Y. J., Tang, H., Ridgwell, A., <strong>Chen, L.-L.</strong>, Deng, W. Y. D. & Zhou, Z. K."
+  authors: "<strong>Li, S.</strong>, <strong>Valdes, P. J.</strong>, <strong>Farnsworth, A. J.</strong>, Davies-Barnard, T., Tao, S., <strong>Lunt, D. J.</strong>, Spicer, R. A., Liu, J., Huang, Y. J., Tang, H., Ridgwell, A., <strong>Chen, L.-L.</strong>, Deng, W. Y. D. & Zhou, Z. K."
   journal: "Science Advances"
   year: 2021
   doi: "https://doi.org/10.1126/sciadv.abc7741"
 - title: "DeepMIP: model intercomparison of early Eocene climatic optimum (EECO) large-scale climate features and comparison with proxy data"
-  authors: "Lunt, D. J., Bragg, F., Chan, W.-L., Hutchinson, D. K., Ladant, J.-B., Morozova, P., Niezgodzki, I., Steinig, S., Zhang, Z., Zhu, J., Abe-ouchi, A., Anagnostou, E., De Boer, A. M., Coxall, H. K., Donnadieu, Y., Foster, G., Inglis, G. N., Knorr, G., Langebroek, P. M., Lear, C. H., Lohmann, G., Poulsen, C. J., Sepulchre, P., Tierney, J. E., <strong>Valdes, P. J.</strong>, Volodin, E. M., Dunkley Jones, T., Hollis, C. J., Huber, M. & Otto-bliesner, B. L."
+  authors: "<strong>Lunt, D. J.</strong>, Bragg, F., Chan, W.-L., Hutchinson, D. K., Ladant, J.-B., Morozova, P., Niezgodzki, I., Steinig, S., Zhang, Z., Zhu, J., Abe-ouchi, A., Anagnostou, E., De Boer, A. M., Coxall, H. K., Donnadieu, Y., Foster, G., Inglis, G. N., Knorr, G., Langebroek, P. M., Lear, C. H., Lohmann, G., Poulsen, C. J., Sepulchre, P., Tierney, J. E., <strong>Valdes, P. J.</strong>, Volodin, E. M., Dunkley Jones, T., Hollis, C. J., Huber, M. & Otto-bliesner, B. L."
   journal: "Climate of the Past"
   year: 2021
   doi: "https://doi.org/10.5194/cp-17-203-2021"
@@ -581,7 +671,7 @@
   year: 2021
   doi: "https://doi.org/10.1016/j.palaeo.2020.110138"
 - title: "Geological Society of London Scientific Statement: what the geological record tells us about our present and future climate"
-  authors: "Lear, C. H., Anand, P., Blenkinsop, T., Foster, G. L., Gagen, M., Hoogakker, B., Larter, R. D., Lunt, D. J., Mccave, I. N., Mcclymont, E., Pancost, R. D., Rickaby, R. E. M., Schultz, D. M., Summerhayes, C., <strong>Williams, C. J. R.</strong> & Zalasiewicz, J."
+  authors: "Lear, C. H., Anand, P., Blenkinsop, T., Foster, G. L., Gagen, M., Hoogakker, B., Larter, R. D., <strong>Lunt, D. J.</strong>, Mccave, I. N., Mcclymont, E., Pancost, R. D., Rickaby, R. E. M., Schultz, D. M., Summerhayes, C., <strong>Williams, C. J. R.</strong> & Zalasiewicz, J."
   journal: "Journal of the Geological Society"
   year: 2021
   doi: "https://doi.org/10.1144/jgs2020-239"
@@ -595,13 +685,33 @@
   journal: "Science Advances"
   year: 2020
   doi: "https://doi.org/10.1073/pnas.2012647117"
+- title: "Proxy evidence for state-dependence of climate sensitivity in the Eocene greenhouse"
+  authors: "Anagnostou, E., John, E. H., Babila, T. L., Sexton, P. F., Ridgwell, A., <strong>Lunt, D. J.</strong>, Pearson, P. N., Chalk, T. B., Pancost, R. D. & Foster, G. L."
+  journal: "Nature Communications"
+  year: 2020
+  doi: "https://doi.org/10.1038/s41467-020-17887-x"
+- title: "Past climates inform our future"
+  authors: "Tierney, J. E., Poulsen, C. J., Montañez, I. P., Bhattacharya, T., Feng, R., Ford, H. L., Hönisch, B., Inglis, G. N., Petersen, S. V., Sagoo, N., Tabor, C. R., Thirumalai, K., Zhu, J., Burls, N. J., Foster, G. L., Goddéris, Y., Huber, B. T., Ivany, L. C., Turner, S. K., <strong>Lunt, D. J.</strong>, McElwain, J. C., Mills, B. J. W., Otto-Bliesner, B. L., Ridgwell, A. & Zhang, Y. G."
+  journal: "Science"
+  year: 2020
+  doi: "https://doi.org/10.1126/science.aay3701"
+- title: "The Pliocene Model Intercomparison Project Phase 2: Large-scale climate features and climate sensitivity"
+  authors: "Haywood, A. M., Tindall, J. C., Dowsett, H. J., Dolan, A. M., Foley, K. M., Hunter, S. J., Hill, D. J., Chan, W. L., Abe-Ouchi, A., Stepanek, C., Lohmann, G., Chandan, D., Richard Peltier, W., Tan, N., Contoux, C., Ramstein, G., Li, X., Zhang, Z., Guo, C., Nisancioglu, K. H., Zhang, Q., Li, Q., Kamae, Y., Chandler, M. A., Sohl, L. E., Otto-Bliesner, B. L., Feng, R., Brady, E. C., Von Der Heydt, A. S., Baatsen, M. L. J. & <strong>Lunt, D. J.</strong>"
+  journal: "Climate of the Past"
+  year: 2020
+  doi: "https://doi.org/10.5194/cp-16-2095-2020"
+- title: "Global mean surface temperature and climate sensitivity of the early Eocene Climatic Optimum (EECO), Paleocene–Eocene Thermal Maximum  (PETM), and latest Paleocene"
+  authors: "Inglis, G. N., Bragg, F., Burls, N. J., Cramwinckel, M. J., Evans, D., Foster, G. L., Huber, M., <strong>Lunt, D. J.</strong>, Siler, N., Steinig, S., Tierney, J. E., Wilkinson, R., Anagnostou, E., De Boer, A. M., Dunkley Jones, T., Edgar, K. M., Hollis, C. J., Hutchinson, D. K. & Pancost, R. D."
+  journal: "Climate of the Past"
+  year: 2020
+  doi: "https://doi.org/10.5194/cp-16-1953-2020"
 - title: "Extinction intensity during Ordovician and Cenozoic glaciations explained by cooling and palaeogeography"
-  authors: "Saupe, E., Qiao, H., Donnadieu, Y., <strong>Farnsworth, A. J.</strong>, Kennedy-Asser, A. T., Ladant, J.-B., Lunt, D. J., Pohl, A., <strong>Valdes, P. J.</strong> & Finnegan, S."
+  authors: "Saupe, E., Qiao, H., Donnadieu, Y., <strong>Farnsworth, A. J.</strong>, Kennedy-Asser, A. T., Ladant, J.-B., <strong>Lunt, D. J.</strong>, Pohl, A., <strong>Valdes, P. J.</strong> & Finnegan, S."
   journal: "Nature Geoscience"
   year: 2020
   doi: "https://doi.org/10.1038/s41561-019-0504-6"
 - title: "Predicting sediment discharges and erosion rates in deep time—examples from the late Cretaceous North American continent"
-  authors: "Lyster, S. J., Whittaker, A. C., Allison, P. A., Lunt, D. J. & <strong>Farnsworth, A.</strong>"
+  authors: "Lyster, S. J., Whittaker, A. C., Allison, P. A., <strong>Lunt, D. J.</strong> & <strong>Farnsworth, A.</strong>"
   journal: "Basin Research"
   year: 2020
   doi: "https://doi.org/10.1111/bre.12442"
@@ -611,17 +721,17 @@
   year: 2020
   doi: "https://doi.org/10.1007/s12549-020-00452-1"
 - title: "Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity"
-  authors: "Dunne, E. M., <strong>Farnsworth, A.</strong>, Greene, S. E., Lunt, D. J. & Butler, R. J."
+  authors: "Dunne, E. M., <strong>Farnsworth, A.</strong>, Greene, S. E., <strong>Lunt, D. J.</strong> & Butler, R. J."
   journal: "Palaeontology"
   year: 2020
   doi: "https://doi.org/10.1111/pala.12514"
 - title: "The role of temperature in the initiation of the end-Triassic mass extinction"
-  authors: "Petryshyn, V. A., Greene, S. E., <strong>Farnsworth, A.</strong>, Lunt, D. J., Kelley, A., Gammariello, R., Ibarra, Y., Bottjer, D. J., Tripati, A. & Corsetti, F. A."
+  authors: "Petryshyn, V. A., Greene, S. E., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, Kelley, A., Gammariello, R., Ibarra, Y., Bottjer, D. J., Tripati, A. & Corsetti, F. A."
   journal: "Earth-Science Reviews"
   year: 2020
   doi: "https://doi.org/10.1016/j.earscirev.2020.103266"
 - title: "CMIP6/PMIP4 simulations of the mid-Holocene and Last Interglacial using HadGEM3: comparison to the pre-industrial era, previous model versions and proxy data"
-  authors: "<strong>Williams, C. J. R.</strong>, Guarino, M.-V., Capron, E., Malmierca-vallet, I., Singarayer, J. S., Sime, L. C., Lunt, D. J. & <strong>Valdes, P. J.</strong>"
+  authors: "<strong>Williams, C. J. R.</strong>, Guarino, M.-V., Capron, E., Malmierca-vallet, I., Singarayer, J. S., Sime, L. C., <strong>Lunt, D. J.</strong> & <strong>Valdes, P. J.</strong>"
   journal: "Climate of the Past"
   year: 2020
   doi: "https://doi.org/10.5194/cp-16-1429-2020"
@@ -631,7 +741,7 @@
   year: 2020
   doi: "https://doi.org/10.1016/j.epsl.2020.116312"
 - title: "Asteroid impact, not volcanism, caused the end-Cretaceous dinosaur extinction"
-  authors: "Chiarenza, A. A., <strong>Farnsworth, A.</strong>, Mannion, P. D., Lunt, D. J., <strong>Valdes, P.</strong>, Morgan, J. V. & Allison, P. A."
+  authors: "Chiarenza, A. A., <strong>Farnsworth, A.</strong>, Mannion, P. D., <strong>Lunt, D. J.</strong>, <strong>Valdes, P.</strong>, Morgan, J. V. & Allison, P. A."
   journal: "Proceedings of the National Academy of Sciences of the United States of America"
   year: 2020
   doi: "https://doi.org/10.1073/pnas.2006087117"
@@ -651,17 +761,17 @@
   year: 2020
   doi: "https://doi.org/10.1016/j.palaeo.2020.109641"
 - title: "Qaidam Basin leaf fossils show northeastern Tibet was high, wet and cool in the early Oligocene"
-  authors: "Song, B., Spicer, R. A., Zhang, K., Ji, J., <strong>Farnsworth, A. J.</strong>, Hughes, A., Yang, Y., Han, F., Xu, Y., Spicer, T. E. V., Shen, T., Lunt, D. J. & Shi, G."
+  authors: "Song, B., Spicer, R. A., Zhang, K., Ji, J., <strong>Farnsworth, A. J.</strong>, Hughes, A., Yang, Y., Han, F., Xu, Y., Spicer, T. E. V., Shen, T., <strong>Lunt, D. J.</strong> & Shi, G."
   journal: "Earth and Planetary Science Letters"
   year: 2020
   doi: "https://doi.org/10.1016/j.epsl.2020.116175"
 - title: "Changes in the high latitude Southern Hemisphere through the Eocene-Oligocene Transition: a model-data comparison"
-  authors: "Kennedy-Asser, A. T., Lunt, D. J., <strong>Valdes, P. J.</strong>, Ladant, J.-B., Frieling, J. & Lauretano, V."
+  authors: "Kennedy-Asser, A. T., <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong>, Ladant, J.-B., Frieling, J. & Lauretano, V."
   journal: "Climate of the Past"
   year: 2020
   doi: "https://doi.org/10.5194/cp-2019-112"
 - title: "A long-term, high-latitude record of Eocene hydrological change in the Greenland region"
-  authors: "Inglis, G. N., Carmichael, M. J., <strong>Farnsworth, A.</strong>, Lunt, D. J. & Pancost, R. D."
+  authors: "Inglis, G. N., Carmichael, M. J., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong> & Pancost, R. D."
   journal: "Palaeogeography, Palaeoclimatology, Palaeoecology"
   year: 2020
   doi: "https://doi.org/10.1016/j.palaeo.2019.109378"
@@ -670,6 +780,16 @@
   journal: "Quaternary Science Reviews"
   year: 2020
   doi: "https://doi.org/10.1016/j.quascirev.2019.106036"
+- title: "Unravelling the sources of carbon emissions at the onset of Oceanic Anoxic Event (OAE) 1a"
+  authors: "Adloff, M., Greene, S. E., Parkinson, I. J., Naafs, B. D. A., Preston, W., Ridgwell, A., <strong>Lunt, D. J.</strong>, Castro Jiménez, J. M. & Monteiro, F. M."
+  journal: "Earth and Planetary Science Letters"
+  year: 2020
+  doi: "https://doi.org/10.1016/j.epsl.2019.115947"
+- title: "Precessional drivers of late Miocene Mediterranean sedimentary sequences: African summer monsoon and Atlantic winter storm tracks"
+  authors: "Marzocchi, A., Flecker, R., <strong>Lunt, D. J.</strong>, Krijgsman, W. & Hilgen, F."
+  journal: "Paleoceanography"
+  year: 2019
+  doi: "https://doi.org/10.1029/2019PA003721"
 - title: "A simulated Northern Hemisphere terrestrial climate dataset for the past 60,000 years"
   authors: "Armstrong, E., Hopcroft, P. & <strong>Valdes, P. J.</strong>"
   journal: "Scientific Data"
@@ -681,12 +801,17 @@
   year: 2019
   doi: "https://doi.org/10.1016/j.quascirev.2019.105908"
 - title: "Past East Asian monsoon evolution controlled by paleogeography, not CO2"
-  authors: "<strong>Farnsworth, A. J.</strong>, Lunt, D. J., Robinson, S. A., <strong>Valdes, P. J.</strong>, Roberts, W., Clift, P. D., Markwick, P., Su, T., Wrobel, N., Bragg, F. J., Kelland, S.-J. & Pancost, R. D."
+  authors: "<strong>Farnsworth, A. J.</strong>, <strong>Lunt, D. J.</strong>, Robinson, S. A., <strong>Valdes, P. J.</strong>, Roberts, W., Clift, P. D., Markwick, P., Su, T., Wrobel, N., Bragg, F. J., Kelland, S.-J. & Pancost, R. D."
   journal: "Science Advances"
   year: 2019
   doi: "https://doi.org/10.1126/sciadv.aax1697"
+- title: "The DeepMIP contribution to PMIP4: Methodologies for selection, compilation and analysis of latest Paleocene and early Eocene climate proxy data, incorporating version 0.1 of the DeepMIP database"
+  authors: "Hollis, C. J., Dunkley Jones, T., Anagnostou, E., Bijl, P. K., Cramwinckel, M. J., Cui, Y., Dickens, G. R., Edgar, K. M., Eley, Y., Evans, D., Foster, G. L., Frieling, J., Inglis, G. N., Kennedy, E. M., Kozdon, R., Lauretano, V., Lear, C. H., Littler, K., Lourens, L., Nele Meckler, A., Naafs, B. D. A., Pälike, H., Pancost, R. D., Pearson, P. N., Röhl, U., Royer, D. L., Salzmann, U., Schubert, B. A., Seebeck, H., Sluijs, A., Speijer, R. P., Stassen, P., Tierney, J., Tripati, A., Wade, B., Westerhold, T., Witkowski, C., Zachos, J. C., Ge Zhang, Y., Huber, M. & <strong>Lunt, D. J.</strong>"
+  journal: "Geoscientific Model Development"
+  year: 2019
+  doi: "https://doi.org/10.5194/gmd-12-3149-2019"
 - title: "Terrestrial environmental change across the onset of the PETM and the associated impact on biomarker proxies: A cautionary tale"
-  authors: "Inglis, G. N., <strong>Farnsworth, A.</strong>, Collinson, M. E., Carmichael, M. J., Naafs, B. D. A., Lunt, D. J., <strong>Valdes, P. J.</strong> & Pancost, R. D."
+  authors: "Inglis, G. N., <strong>Farnsworth, A.</strong>, Collinson, M. E., Carmichael, M. J., Naafs, B. D. A., <strong>Lunt, D. J.</strong>, <strong>Valdes, P. J.</strong> & Pancost, R. D."
   journal: "Global and Planetary Change"
   year: 2019
   doi: "https://doi.org/10.1016/j.gloplacha.2019.102991"
@@ -695,6 +820,11 @@
   journal: "Science"
   year: 2019
   doi: "https://doi.org/10.1126/science.aax8474"
+- title: "Widespread Warming Before and Elevated Barium Burial During the Paleocene‐Eocene Thermal Maximum: Evidence for Methane Hydrate Release?"
+  authors: "Frieling, J., Peterse, F., <strong>Lunt, D.</strong>, Bohaty, S., Sinninghe Damsté, J., Reichart, G. & Sluijs, A."
+  journal: "Paleoceanography and Paleoclimatology"
+  year: 2019
+  doi: "https://doi.org/10.1029/2018PA003425"
 - title: "Investigating the feedbacks between CO2, vegetation and the AMOC in a coupled climate model"
   authors: "Armstrong, E., <strong>Valdes, P.</strong>, House, J. & Singarayer, J."
   journal: "Climate Dynamics"
@@ -711,7 +841,7 @@
   year: 2019
   doi: "https://doi.org/10.3997/2214-4609.201902959"
 - title: "Climate sensitivity on geological timescales controlled by nonlinear feedbacks and ocean circulation"
-  authors: "<strong>Farnsworth, A.</strong>, Lunt, D., O'Brien, C., Foster, G., Inglis, G., Markwick, P., Pancost, R. & Robinson, S. A."
+  authors: "<strong>Farnsworth, A.</strong>, <strong>Lunt, D.</strong>, O'Brien, C., Foster, G., Inglis, G., Markwick, P., Pancost, R. & Robinson, S. A."
   journal: "Geophysical Research Letters"
   year: 2019
   doi: "https://doi.org/10.1029/2019GL083574"
@@ -726,7 +856,7 @@
   year: 2019
   doi: "https://doi.org/10.1111/geb.12904"
 - title: "Climatic shifts drove major contractions in avian latitudinal distributions throughout the Cenozoic"
-  authors: "Saupe, E., <strong>Farnsworth, A.</strong>, Lunt, D., Sagoo, N., Pham, K. & Field, D."
+  authors: "Saupe, E., <strong>Farnsworth, A.</strong>, <strong>Lunt, D.</strong>, Sagoo, N., Pham, K. & Field, D."
   journal: "Proceedings of the National Academy of Sciences of the United States of America"
   year: 2019
   doi: "https://doi.org/10.1073/pnas.1903866116"
@@ -751,7 +881,7 @@
   year: 2019
   doi: "https://doi.org/10.5194/gmd-12-1351-2019"
 - title: "Ecological niche modelling does not support climatically-driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction"
-  authors: "Chiarenza, A. A., Mannion, P. D., Lunt, D. J., <strong>Farnsworth, A.</strong>, Jones, L. A., Kelland, S. J. & Allison, P. A."
+  authors: "Chiarenza, A. A., Mannion, P. D., <strong>Lunt, D. J.</strong>, <strong>Farnsworth, A.</strong>, Jones, L. A., Kelland, S. J. & Allison, P. A."
   journal: "Nature Communications"
   year: 2019
   doi: "https://doi.org/10.1038/s41467-019-08997-2"
@@ -766,7 +896,7 @@
   year: 2019
   doi: "https://doi.org/10.1073/pnas.1818688116"
 - title: "Assessing Mechanisms and Uncertainty in Modeled Climatic Change at the Eocene‐Oligocene Transition"
-  authors: "Kennedy-Asser, A. T., Lunt, D. J., <strong>Farnsworth, A.</strong> & <strong>Valdes, P. J.</strong>"
+  authors: "Kennedy-Asser, A. T., <strong>Lunt, D. J.</strong>, <strong>Farnsworth, A.</strong> & <strong>Valdes, P. J.</strong>"
   journal: "Paleoceanography and Paleoclimatology"
   year: 2019
   doi: "https://doi.org/10.1029/2018PA003380"
@@ -776,12 +906,12 @@
   year: 2019
   doi: "https://doi.org/10.1029/2018GL080483"
 - title: "Southern Hemisphere sea-surface temperatures during the Cenomanian-Turonian: Implications for the termination of Oceanic Anoxic Event 2"
-  authors: "Robinson, S., Dickson, A., Pain, A., Jenkyns, H., O’Brien, C., <strong>Farnsworth, A.</strong> & Lunt, D."
+  authors: "Robinson, S., Dickson, A., Pain, A., Jenkyns, H., O’Brien, C., <strong>Farnsworth, A.</strong> & <strong>Lunt, D.</strong>"
   journal: "Geology"
   year: 2019
   doi: "https://doi.org/10.1130/G45842.1"
 - title: "Evaluating northern high-latitude paleoclimate model results using paleobotanical evidence from the middle cretaceous"
-  authors: "Harland, M., <strong>Valdes, P.</strong>, Lunt, D. J., Francis, J. E., <strong>Farnsworth, A.</strong>, Loptson, C., Beerling, D. J. & Markwick, P. J."
+  authors: "Harland, M., <strong>Valdes, P.</strong>, <strong>Lunt, D. J.</strong>, Francis, J. E., <strong>Farnsworth, A.</strong>, Loptson, C., Beerling, D. J. & Markwick, P. J."
   journal: "Latitudinal controls on stratigraphic models and sedimentary concepts"
   year: 2019
   doi: "https://doi.org/10.2110/sepmsp.108.08"
@@ -790,6 +920,26 @@
   journal: "Geophysical Research Letters"
   year: 2019
   doi: "https://doi.org/10.1029/2019gl085127"
+- title: "Pliocene and Eocene provide best analogs for near-future climates"
+  authors: "Burke, K., Williams, J., Chandler, M., Haywood, A., <strong>Lunt, D.</strong> & Otto-Bliesner, B."
+  journal: "Proceedings of the National Academy of Sciences of the United States of America"
+  year: 2018
+  doi: "https://doi.org/10.1073/pnas.1809600115"
+- title: "Changes in the occurrence of extreme precipitation events at the Paleocene–Eocene thermal maximum"
+  authors: "Carmichael, M. J., Pancost, R. D. & <strong>Lunt, D. J.</strong>"
+  journal: "Earth and Planetary Science Letters"
+  year: 2018
+  doi: "https://doi.org/10.1016/j.epsl.2018.08.005"
+- title: "Placing our current 'hyperthermal' in the context of rapid climate change in our geological past"
+  authors: "Foster, G. L., Hull, P., <strong>Lunt, D. J.</strong> & Zachos, J. C."
+  journal: "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+  year: 2018
+  doi: "https://doi.org/10.1098/rsta.2017.0086"
+- title: "High temperatures in the terrestrial mid-latitudes during the early Palaeogene"
+  authors: "Naafs, B. D. A., Rohrssen, M., Inglis, G. N., Lähteenoja, O., Feakins, S. J., Collinson, M. E., Kennedy, E. M., Singh, P. K., Singh, M. P., <strong>Lunt, D. J.</strong> & Pancost, R. D."
+  journal: "Nature Geoscience"
+  year: 2018
+  doi: "https://doi.org/10.1038/s41561-018-0199-0"
 - title: "Simulating the Last Interglacial Greenland stable water isotope peak: The role of Arctic sea ice changes"
   authors: "Malmierca-Vallet, I., Sime, L. C., Tindall, J. C., Capron, E., <strong>Valdes, P. J.</strong>, Vinther, B. M. & Holloway, M. D."
   journal: "Quaternary Science Reviews"
@@ -801,7 +951,7 @@
   year: 2018
   doi: "https://doi.org/10.1111/gcb.14375"
 - title: "Oligocene climate signals and forcings in Eurasia revealed by plant macrofossil and modelling results"
-  authors: "<strong>Li, S.</strong>, Xing, Y., <strong>Valdes, P. J.</strong>, Huang, Y., Su, T., <strong>Farnsworth, A.</strong>, Lunt, D. J., Tang, H., Kennedy, A. T. & Zhou, Z."
+  authors: "<strong>Li, S.</strong>, Xing, Y., <strong>Valdes, P. J.</strong>, Huang, Y., Su, T., <strong>Farnsworth, A.</strong>, <strong>Lunt, D. J.</strong>, Tang, H., Kennedy, A. T. & Zhou, Z."
   journal: "Gondwana Research"
   year: 2018
   doi: "https://doi.org/10.1016/j.gr.2018.04.015"
@@ -821,7 +971,7 @@
   year: 2018
   doi: "https://doi.org/10.1029/2017PA003308"
 - title: "Palaeoclimate constraints on the impact of 2 °c anthropogenic warming and beyond"
-  authors: "Fischer, H., Meissner, K. J., Mix, A. C., Abram, N. J., Austermann, J., Brovkin, V., Capron, E., Colombaroli, D., Daniau, A. L., Dyez, K. A., Felis, T., Finkelstein, S. A., Jaccard, S. L., McClymont, E. L., Rovere, A., Sutter, J., Wolff, E. W., Affolter, S., Bakker, P., Ballesteros-Cánovas, J. A., Barbante, C., Caley, T., Carlson, A. E., Churakova, O., Cortese, G., Cumming, B. F., Davis, B. A. S., De Vernal, A., Emile-Geay, J., Fritz, S. C., Gierz, P., Gottschalk, J., Holloway, M. D., Joos, F., Kucera, M., Loutre, M. F., Lunt, D. J., Marcisz, K., Marlon, J. R., Martinez, P., Masson-Delmotte, V., Nehrbass-Ahles, C., Otto-Bliesner, B. L., Raible, C. C., Risebrobakken, B., Sánchez Goñi, M. F., Arrigo, J. S., Sarnthein, M., Sjolte, J. & <strong>Valdes, P. J.</strong>"
+  authors: "Fischer, H., Meissner, K. J., Mix, A. C., Abram, N. J., Austermann, J., Brovkin, V., Capron, E., Colombaroli, D., Daniau, A. L., Dyez, K. A., Felis, T., Finkelstein, S. A., Jaccard, S. L., McClymont, E. L., Rovere, A., Sutter, J., Wolff, E. W., Affolter, S., Bakker, P., Ballesteros-Cánovas, J. A., Barbante, C., Caley, T., Carlson, A. E., Churakova, O., Cortese, G., Cumming, B. F., Davis, B. A. S., De Vernal, A., Emile-Geay, J., Fritz, S. C., Gierz, P., Gottschalk, J., Holloway, M. D., Joos, F., Kucera, M., Loutre, M. F., <strong>Lunt, D. J.</strong>, Marcisz, K., Marlon, J. R., Martinez, P., Masson-Delmotte, V., Nehrbass-Ahles, C., Otto-Bliesner, B. L., Raible, C. C., Risebrobakken, B., Sánchez Goñi, M. F., Arrigo, J. S., Sarnthein, M., Sjolte, J. & <strong>Valdes, P. J.</strong>"
   journal: "Nature Geoscience"
   year: 2018
   doi: "https://doi.org/10.1038/s41561-018-0146-0"
@@ -851,10 +1001,20 @@
   year: 2018
   doi: "https://doi.org/10.1038/s41467-018-03800-0"
 - title: "The PMIP4 contribution to CMIP6 - part 1: overview and over-arching analysis plan"
-  authors: "Kageyama, M., Braconnot, P., Harrison, S. P., Haywood, A. M., Jungclaus, J. H., Otto-Bliesner, B. L., Abe-Ouchi, A., Albani, S., Bartlein, P. J., Brierley, C., Crucifix, M., Dolan, A., Fernandez-Donado, L. L., Fischer, H., Hopcroft, P. O., Ivanovic, R. F., Lambert, F., Lunt, D. J., Mahowald, N. M., Richard Peltier, W., Phipps, S. J., Roche, D. M., Schmidt, G. A., Tarasov, L., <strong>Valdes, P. J.</strong>, Zhang, Q. & Zhou, T."
+  authors: "Kageyama, M., Braconnot, P., Harrison, S. P., Haywood, A. M., Jungclaus, J. H., Otto-Bliesner, B. L., Abe-Ouchi, A., Albani, S., Bartlein, P. J., Brierley, C., Crucifix, M., Dolan, A., Fernandez-Donado, L. L., Fischer, H., Hopcroft, P. O., Ivanovic, R. F., Lambert, F., <strong>Lunt, D. J.</strong>, Mahowald, N. M., Richard Peltier, W., Phipps, S. J., Roche, D. M., Schmidt, G. A., Tarasov, L., <strong>Valdes, P. J.</strong>, Zhang, Q. & Zhou, T."
   journal: "Geoscientific Model Development"
   year: 2018
   doi: "https://doi.org/10.5194/gmd-11-1033-2018"
+- title: "Climate change and landscape development in post-closure safety assessment of solid radioactive waste disposal: Results of an initiative of the IAEA"
+  authors: "Lindborg, T., Thorne, M., Andersson, E., Becker, J., Brandefelt, J., Cabianca, T., Gunia, M., Ikonen, A. T. K., Johansson, E., Kangasniemi, V., Kautsky, U., Kirchner, G., Klos, R., Kowe, R., Kontula, A., Kupiainen, P., Lahdenperä, A.-M., Lord, N. S., <strong>Lunt, D. J.</strong>, Näslund, J.-O., Nordén, M., Norris, S., Pérez-Sánchez, D., Proverbio, A., Riekki, K., Rübel, A., Sweeck, L., Walke, R., Xu, S., Smith, G. & Pröhl, G."
+  journal: "Journal of Environmental Radioactivity"
+  year: 2018
+  doi: "https://doi.org/10.1016/j.jenvrad.2017.12.006"
+- title: "Orbital, tectonic and oceanographic controls on Pliocene climate and atmospheric circulation in Arctic Norway"
+  authors: "Panitz, S., Salzmann, U., Risebrobakken, B., De Schepper, S., Pound, M. J., Haywood, A. M., Dolan, A. M. & <strong>Lunt, D. J.</strong>"
+  journal: "Global and Planetary Change"
+  year: 2018
+  doi: "https://doi.org/10.1016/j.gloplacha.2017.12.022"
 - title: "Eocene greenhouse climate revealed by coupled clumped isotope-Mg/Ca thermometry"
   authors: "Evans, D., Sagoo, N., Renema, W., Cotton, L. J., Müller, W., Todd, J. A., Saraswati, P. K., Stassen, P., Ziegler, M., Pearson, P. N., <strong>Valdes, P. J.</strong> & Affek, H. P."
   journal: "Proceedings of the National Academy of Sciences of the United States of America"
@@ -870,6 +1030,26 @@
   journal: "Global Change Biology"
   year: 2018
   doi: "https://doi.org/10.1111/gcb.13950"
+- title: "Emulation of long-term changes in global climate: application to the late Pliocene and future"
+  authors: "Lord, N., Crucifix, M., <strong>Lunt, D.</strong>, Thorne, M., Bounceur, N., Dowsett, H., O'Brien, C. & Ridgwell, A."
+  journal: "Climate of the Past"
+  year: 2017
+  doi: "https://doi.org/10.5194/cp-13-1539-2017"
+- title: "Sensitivity of the Greenland Ice Sheet to interglacial climate forcing: MIS 5e Versus MIS 11"
+  authors: "Rachmayani, R., Prange, M., <strong>Lunt, D. J.</strong>, Stone, E. & Schulz, M."
+  journal: "Paleoceanography and Paleoclimatology"
+  year: 2017
+  doi: "https://doi.org/10.1002/2017PA003149"
+- title: "The PMIP4 contribution to CMIP6 - Part 2: Two interglacials, scientific objective and experimental design for Holocene and Last Interglacial simulations"
+  authors: "Otto-Bliesner, B. L., Braconnot, P., Harrison, S. P., <strong>Lunt, D. J.</strong>, Abe-Ouchi, A., Albani, S., Bartlein, P. J., Capron, E., Carlson, A. E., Dutton, A., Fischer, H., Goelzer, H., Govin, A., Haywood, A., Joos, F., Legrande, A. N., Lipscomb, W. H., Lohmann, G., Mahowald, N., Nehrbass-Ahles, C., Pausata, F. S. R., Peterschmitt, J. Y., Phipps, S. J., Renssen, H. & Zhang, Q."
+  journal: "Geoscientific Model Development"
+  year: 2017
+  doi: "https://doi.org/10.5194/gmd-10-3979-2017"
+- title: "The PMIP4 contribution to CMIP6 - Part 4: Scientific objectives and experimental design of the PMIP4-CMIP6 Last Glacial Maximum experiments and PMIP4 sensitivity experiments"
+  authors: "Kageyama, M., Albani, S., Braconnot, P., Harrison, S. P., Hopcroft, P. O., Ivanovic, R. F., Lambert, F., Marti, O., Richard Peltier, W., Peterschmitt, J. Y., Roche, D. M., Tarasov, L., Zhang, X., Brady, E. C., Haywood, A. M., Legrande, A. N., <strong>Lunt, D. J.</strong>, Mahowald, N. M., Mikolajewicz, U., Nisancioglu, K. H., Otto-Bliesner, B. L., Renssen, H., Tomas, R. A., Zhang, Q., Abe-Ouchi, A., Bartlein, P. J., Cao, J., Li, Q., Lohmann, G., Ohgaito, R., Shi, X., Volodin, E., Yoshida, K., Zhang, X. & Zheng, W."
+  journal: "Geoscientific Model Development"
+  year: 2017
+  doi: "https://doi.org/10.5194/gmd-10-4035-2017"
 - title: "The Spatial Structure of the 128 ka Antarctic Sea Ice Minimum"
   authors: "Holloway, M. D., Sime, L. C., Allen, C. S., Hillenbrand, C. D., Bunch, P., Wolff, E. & <strong>Valdes, P. J.</strong>"
   journal: "Geophysical Research Letters"
@@ -881,7 +1061,7 @@
   year: 2017
   doi: "https://doi.org/10.5194/cp-13-1381-2017"
 - title: "The BRIDGE HadCM3 family of climate models: HadCM3@Bristol v1.0"
-  authors: "<strong>Valdes, P. J.</strong>, Armstrong, E., Badger, M. P. S., Bradshaw, C. D., Bragg, F., Crucifix, M., Davies-Barnard, T., Day, J., <strong>Farnsworth, A.</strong>, Gordon, C., Hopcroft, P. O., Kennedy, A. T., Lord, N. S., Lunt, D. J., Marzocchi, A., Parry, L. M., Pope, V., Roberts, W. H. G., Stone, E. J., Tourte, G. J. L. & Williams, J. H. T."
+  authors: "<strong>Valdes, P. J.</strong>, Armstrong, E., Badger, M. P. S., Bradshaw, C. D., Bragg, F., Crucifix, M., Davies-Barnard, T., Day, J., <strong>Farnsworth, A.</strong>, Gordon, C., Hopcroft, P. O., Kennedy, A. T., Lord, N. S., <strong>Lunt, D. J.</strong>, Marzocchi, A., Parry, L. M., Pope, V., Roberts, W. H. G., Stone, E. J., Tourte, G. J. L. & Williams, J. H. T."
   journal: "Geoscientific Model Development"
   year: 2017
   doi: "https://doi.org/10.5194/gmd-10-3715-2017"
@@ -890,8 +1070,13 @@
   journal: "Quaternary Science Reviews"
   year: 2017
   doi: "https://doi.org/10.1016/j.quascirev.2017.07.018"
+- title: "Quantifying the Mediterranean freshwater budget throughout the late Miocene: New implications for sapropel formation and the Messinian Salinity Crisis"
+  authors: "Simon, D., Marzocchi, A., Flecker, R., <strong>Lunt, D.</strong>, Hilgen, F. & Meijer, P."
+  journal: "Earth and Planetary Science Letters"
+  year: 2017
+  doi: "https://doi.org/10.1016/j.epsl.2017.05.013"
 - title: "Hydrological and associated biogeochemical consequences of rapid global warming during the Paleocene-Eocene Thermal Maximum"
-  authors: "Carmichael, M., Inglis, G., Badger, M., Naafs, D., Behrooz, L., Remmelzwaal, S., Monteiro, F., Rohrssen, M., <strong>Farnsworth, A.</strong>, Buss, H., Dickson, A. J., <strong>Valdes, P.</strong>, Lunt, D. & Pancost, R."
+  authors: "Carmichael, M., Inglis, G., Badger, M., Naafs, D., Behrooz, L., Remmelzwaal, S., Monteiro, F., Rohrssen, M., <strong>Farnsworth, A.</strong>, Buss, H., Dickson, A. J., <strong>Valdes, P.</strong>, <strong>Lunt, D.</strong> & Pancost, R."
   journal: "Global and Planetary Change"
   year: 2017
   doi: "https://doi.org/10.1016/j.gloplacha.2017.07.014"
@@ -906,7 +1091,7 @@
   year: 2017
   doi: "https://doi.org/10.1038/s41598-017-09816-8"
 - title: "Cretaceous sea-surface temperature evolution: Constraints from TEX86 and planktonic foraminiferal oxygen isotopes"
-  authors: "O'Brien, C. L., Robinson, S. A., Pancost, R. D., Sinninghe Damsté, J. S., Schouten, S., Lunt, D. J., Alsenz, H., Bornemann, A., Bottini, C., Brassell, S. C., <strong>Farnsworth, A.</strong>, Forster, A., Huber, B. T., Inglis, G. N., Jenkyns, H. C., Linnert, C., Littler, K., Markwick, P., McAnena, A., Mutterlose, J., Naafs, B. D. A., Püttmann, W., Sluijs, A., van Helmond, N. A. G. M., Vellekoop, J., Wagner, T. & Wrobel, N. E."
+  authors: "O'Brien, C. L., Robinson, S. A., Pancost, R. D., Sinninghe Damsté, J. S., Schouten, S., <strong>Lunt, D. J.</strong>, Alsenz, H., Bornemann, A., Bottini, C., Brassell, S. C., <strong>Farnsworth, A.</strong>, Forster, A., Huber, B. T., Inglis, G. N., Jenkyns, H. C., Linnert, C., Littler, K., Markwick, P., McAnena, A., Mutterlose, J., Naafs, B. D. A., Püttmann, W., Sluijs, A., van Helmond, N. A. G. M., Vellekoop, J., Wagner, T. & Wrobel, N. E."
   journal: "Earth-Science Reviews"
   year: 2017
   doi: "https://doi.org/10.1016/j.earscirev.2017.07.012"
@@ -925,6 +1110,26 @@
   journal: "Geophysical Research Letters"
   year: 2017
   doi: "https://doi.org/10.1002/2017GL073103"
+- title: "Global warming and ocean stratification: a potential result of large extraterrestrial impacts"
+  authors: "Joshi, M., von Glasow, R., Smith, R. S., Paxton, C. G. M., Maycock, A. C., <strong>Lunt, D. J.</strong>, Loptson, C. A. & Markwick, P."
+  journal: "Geophysical Research Letters"
+  year: 2017
+  doi: "https://doi.org/10.1002/2017GL073330"
+- title: "Future climate forcing potentially without precedent in the last 420 million years"
+  authors: "Foster, G. L., Royer, D. L. & <strong>Lunt, D. J.</strong>"
+  journal: "Nature Communications"
+  year: 2017
+  doi: "https://doi.org/10.1038/ncomms14845"
+- title: "Precession driven changes in terrestrial organic matter input to the Eastern Mediterranean leading up to the Messinian Salinity Crisis"
+  authors: "Mayser, J. P., Flecker, R., Marzocchi, A., Kouwenhoven, T., <strong>Lunt, D.</strong> & Pancost, R."
+  journal: "Earth and Planetary Science Letters"
+  year: 2017
+  doi: "https://doi.org/10.1016/j.epsl.2017.01.029"
+- title: "The DeepMIP contribution to PMIP4: experimental design for model simulations of the EECO, PETM, and pre-PETM"
+  authors: "<strong>Lunt, D.</strong>, Huber, M., Anagnostou, E., Baatsen, M., Caballero, R., DeConto, R., Dijkstra, H., Donnadieu, Y., Evans, D., Feng, R., Foster, G., Gasson, E., von der Heydt, A., Hollis, C. J., Inglis, G., Jones, S., Kiehl, J., Kirtland Turner, S., Korty, R., Kozdon, R., Krishnan, S., Ladant, J.-B., Langebroek, P., Lear, C., LeGrande, A., Littler, K., Markwick, P., Otto-Bliesner, B., Pearson, P., Poulsen, C., Salzmann, U., Shields, C., Snell, K., Starz, M., Super, J., Tabor, C., Tierney, J., Tourte, G. J. L., Tripati, A., Upchurch, G., Wade, B., Wing, S., Winguth, A., Wright, N., Zachos, J. & Zeebe, R."
+  journal: "Geoscientific Model Development"
+  year: 2017
+  doi: "https://doi.org/10.5194/gmd-10-889-2017"
 - title: "Green Mountains and White Plains: The Effect of Northern Hemisphere Ice Sheets on the Global Energy Budget"
   authors: "Roberts, W. H. G. & <strong>Valdes, P. J.</strong>"
   journal: "Journal of Climate"
@@ -946,7 +1151,7 @@
   year: 2017
   doi: "https://doi.org/10.1038/ncomms14383"
 - title: "Mid-latitude continental temperatures through the early Eocene in western Europe"
-  authors: "Inglis, G. N., Collinson, M., Riegel, W., Wilde, V., <strong>Farnsworth, A.</strong>, Lunt, D., <strong>Valdes, P.</strong>, Robson, B., Scott, A. C., Lenz, O., Naafs, D. & Pancost, R."
+  authors: "Inglis, G. N., Collinson, M., Riegel, W., Wilde, V., <strong>Farnsworth, A.</strong>, <strong>Lunt, D.</strong>, <strong>Valdes, P.</strong>, Robson, B., Scott, A. C., Lenz, O., Naafs, D. & Pancost, R."
   journal: "Earth and Planetary Science Letters"
   year: 2017
   doi: "https://doi.org/10.1016/j.epsl.2016.12.009"
@@ -961,7 +1166,7 @@
   year: 2017
   doi: "https://doi.org/10.1002/2016GL071849"
 - title: "Early Jurassic North Atlantic sea-surface temperatures from TEX86 palaeothermometry"
-  authors: "Robinson, S. A., Ruhl, M., Astley, D. L., Naafs, D., <strong>Farnsworth, A.</strong>, Bown, P. R., Jenkyns, H. C., Lunt, D., O'Brien, C., Pancost, R. & Markwick, P."
+  authors: "Robinson, S. A., Ruhl, M., Astley, D. L., Naafs, D., <strong>Farnsworth, A.</strong>, Bown, P. R., Jenkyns, H. C., <strong>Lunt, D.</strong>, O'Brien, C., Pancost, R. & Markwick, P."
   journal: "Sedimentology"
   year: 2017
   doi: "https://doi.org/10.1111/sed.12321"
