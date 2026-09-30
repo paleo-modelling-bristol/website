@@ -19,7 +19,13 @@ permalink: /publications/
   </div>
 
   <div class="pub-list">
+    {% assign prev_year = "" %}
     {% for pub in site.data.publications %}
+    {% assign this_year = pub.year | append: "" %}
+    {% if this_year != prev_year %}
+    <h2 class="pub-year-heading" data-year="{{ pub.year }}">{{ pub.year }}</h2>
+    {% assign prev_year = this_year %}
+    {% endif %}
     <div class="pub-item" data-year="{{ pub.year }}">
       <div class="pub-title">{{ pub.title }}</div>
       <div class="pub-authors">{{ pub.authors }} ({{ pub.year }})</div>
@@ -34,11 +40,21 @@ permalink: /publications/
   </div>
 </div>
 
+<style>
+  .pub-year-heading {
+    font-size: 2rem; font-weight: 700; letter-spacing: 0.02em;
+    color: #993C1D; margin: 1.5rem 0 0; padding-bottom: 0.4rem;
+    border-bottom: 2px solid #e8e8e8;
+  }
+  .pub-list > .pub-year-heading:first-child { margin-top: 0; }
+  .pub-authors strong { color: #1a1a1a; font-weight: 700; }
+</style>
+
 <script>
   function filterPubs(year, btn) {
     document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    document.querySelectorAll('.pub-item').forEach(item => {
+    document.querySelectorAll('.pub-item, .pub-year-heading').forEach(item => {
       item.style.display = (year === 'all' || item.dataset.year === String(year)) ? '' : 'none';
     });
   }
