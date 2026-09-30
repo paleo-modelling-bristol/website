@@ -21,6 +21,14 @@
 # under the letter after "- " (e.g. "src"). Mixing indentation levels breaks
 # this whole file and takes the entire site down, not just this page.
 
+- title: "2026 New Academic Year Welcome Dinner"
+  date: "Sep 2026"
+  tag: social
+  images:
+    - src: /assets/images/socials/Sep_2026.png
+      caption: ""
+      height: 220
+
 - title: "Treetops High Ropes"
   date: "June 2026"
   tag: social
