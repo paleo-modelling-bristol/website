@@ -13,7 +13,7 @@
 #    the fields plus the bio text below as normal.
 name: "Charlie Williams"
 section: pi
-role: "Senior Lecturer"
+role: "Senior Lecturer in Earth System Modelling"
 affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
 # starting with /assets/images/people/... (put the image file there first).
