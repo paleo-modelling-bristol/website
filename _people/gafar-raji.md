@@ -9,12 +9,12 @@ external_profile: ""
 
 photo: "/assets/images/people/gafar-raji.png"
 
-email: ""
+email: "gafar.raji@bristol.ac.uk"
 website: ""
 orcid: ""
 github: "https://github.com/garaji4631"
 google_scholar: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/gafar-raji-085629bb/"
 ---
 
 ## About
