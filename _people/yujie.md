@@ -24,7 +24,7 @@ social_media: ""
 research_interests:
   - "Palaeobiology"
   - "Marine ecosystems"
-  - "Palaeoclimate"
+  - "Palaeoclimate Model"
   - "Ecology"
   - "Quantitative palaeobiology"
 ---
@@ -39,4 +39,4 @@ I am a first-year PhD student in the School of Earth Sciences at the University 
 
 ## Publications
 
-Shi, Y., et al. (2026). Miaolingian-Furongian (Cambrian) high-resolution marine species richness patterns of the North China Block. *Global and Planetary Change*, 259, 105346.105346.
+Shi, Y., et al. (2026). Miaolingian-Furongian (Cambrian) high-resolution marine species richness patterns of the North China Block. *Global and Planetary Change*, 259, 105346.
