@@ -3,7 +3,7 @@ layout: person
 
 name: "Gafar Raji"
 section: pgr
-role: "PhD Researcher"
+role: "PhD Student"
 
 external_profile: ""
 
@@ -19,9 +19,9 @@ linkedin: ""
 
 ## About
 
-I am a PhD researcher in Geography at the University of Bristol and a member of the Bristol Paleo Modelling Group.
+I am a PhD researcher in Geography at the University of Bristol and a member of the Bristol Paleo Modelling Group. My research investigates long-term climate change using Earth system and climate model simulations, with a particular focus on future climate projections and the mechanisms driving climate variability across geological timescales.
 
-My research focuses on climate modelling, palaeoclimate variability, and long-term climate change. I am interested in understanding Earth system dynamics across geological timescales and using climate model simulations to investigate past and future environmental change.
+My work explores how insights from past climates can improve understanding of future climate trajectories and environmental change. Through the integration of climate modelling and palaeoclimate evidence, I aim to better understand Earth system responses to external forcings and feedback processes.
 
 ## Research Interests
 
