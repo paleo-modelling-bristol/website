@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Charlie Williams"
+sort_name: "Williams, Charlie"
 section: pi
 role: "Senior Lecturer in Earth System Modelling"
 affiliation: "University of Bristol"
