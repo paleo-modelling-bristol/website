@@ -29,6 +29,7 @@ sections:
 <section class="people-section">
   <h2 class="section-title">{{ section.label }}</h2>
   <div class="people-grid">
+    {% assign group = group | sort: "sort_name" %}
     {% for person in group %}
     {% if person.external_profile and person.external_profile != "" %}
     <a class="person-card" href="{{ person.external_profile }}" target="_blank" rel="noopener noreferrer">
