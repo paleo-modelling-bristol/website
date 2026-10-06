@@ -8,11 +8,11 @@ permalink: /people/
 # To add a new group, add a key/label pair here.
 sections:
   - key: pi
-    label: "PIs"
+    label: "Academic Staff"
   - key: postdoc
     label: "Research Fellows and Postdocs"
   - key: pgr
-    label: "Postgraduate Researcher"
+    label: "Postgraduate Researchers"
   - key: visitor
     label: "Visitors"
   - key: old_friends
