@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Yujie Shi"
+sort_name: "Shi, Yujie"
 section: pgr
 role: "PhD Researcher"
 affiliation: "University of Bristol"
