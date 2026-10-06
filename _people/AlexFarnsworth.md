@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Alex Farnsworth"
+sort_name: "Farnsworth, Alex"
 section: postdoc
 role: "Research Fellow"
 affiliation: "University of Bristol"
