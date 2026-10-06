@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Shufeng Li"
+sort_name: "Li, Shufeng"
 section: visitor
 role: "Professor"
 affiliation: "Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences"
