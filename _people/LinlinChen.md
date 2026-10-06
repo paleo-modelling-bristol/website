@@ -1,5 +1,6 @@
 ---
 name: Linlin Chen
+sort_name: "Chen, Linlin"
 section: pgr
 role: PhD student
 affiliation: University of Bristol
