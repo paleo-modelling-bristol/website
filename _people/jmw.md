@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Jeanne Millot-Weil"
+sort_name: "Millot-Weil, Jeanne"
 section: pgr
 role: "Phd student"
 affiliation: "University of Bristol"
