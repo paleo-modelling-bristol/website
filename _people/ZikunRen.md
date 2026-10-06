@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Zikun Ren"
+sort_name: "Ren, Zikun"
 section: postdoc
 role: "Senior Research Associate"
 affiliation: "University of Bristol"
