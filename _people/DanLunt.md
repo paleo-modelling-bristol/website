@@ -18,7 +18,7 @@ affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
 # starting with /assets/images/people/... (put the image file there first).
 photo: "/assets/images/people/DanLunt.jpg"
-external_profile: "https://research-information.bris.ac.uk/en/persons/dan-lunt/"
+external_profile: "https://www.bristol.ac.uk/people/person/Dan-Lunt-f54ac388-22de-4fbd-9f8d-0b3b66293a83/"
 email: "D.J.Lunt@bristol.ac.uk"
 website: ""
 scholar: ""
