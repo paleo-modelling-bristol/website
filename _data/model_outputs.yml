@@ -9,6 +9,6 @@
   thumb: "/assets/images/model-outputs/climatearchive_screenshot.jpg"
   link: "https://climatearchive.org/"
 - title: "UM_Bristol"
-  description: "The Bristol version of the Met Office Unified Model, source code and setup on GitHub."
+  description: "Documentation for the Bristol version of the Met Office Unified Model"
   thumb: "/assets/images/model-outputs/UM_gihub.jpeg"
-  link: "https://github.com/danlunt1976/UM_Bristol"
+  link: "https://danlunt1976.github.io/UM_Bristol/"
