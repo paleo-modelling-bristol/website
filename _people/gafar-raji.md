@@ -2,6 +2,7 @@
 layout: person
 
 name: "Gafar Raji"
+sort_name: "Raji, Gafar"
 section: pgr
 role: "PhD Student"
 
