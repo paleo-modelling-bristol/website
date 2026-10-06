@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Dan Lunt"
+sort_name: "Lunt, Dan"
 section: pi
 role: "Professor of Climate Science"
 affiliation: "University of Bristol"
