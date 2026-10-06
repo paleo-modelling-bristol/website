@@ -12,6 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Nils Weitzel"
+sort_name: "Weitzel, Nils"
 section: visitor
 role: "Assistant Professor"
 affiliation: "TU Dortmund University (Germany)"
