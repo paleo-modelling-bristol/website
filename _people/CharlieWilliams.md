@@ -13,7 +13,7 @@
 #    the fields plus the bio text below as normal.
 name: "Charlie Williams"
 sort_name: "Williams, Charlie"
-section: pi
+section: staff
 role: "Senior Lecturer in Earth System Modelling"
 affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
