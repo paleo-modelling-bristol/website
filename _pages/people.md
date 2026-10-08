@@ -7,10 +7,12 @@ permalink: /people/
 # won't match a group below and that person will silently not appear here.
 # To add a new group, add a key/label pair here.
 sections:
+  - key: gl
+    label: "Group Leads"
   - key: pi
-    label: "Academic Staff"
+    label: "Academic Staff and Research Fellows and Postdocs"
   - key: postdoc
-    label: "Research Fellows and Postdocs"
+    label: "Academic Staff and Research Fellows and Postdocs"
   - key: pgr
     label: "Postgraduate Researchers"
   - key: visitor
