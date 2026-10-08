@@ -13,7 +13,7 @@
 #    the fields plus the bio text below as normal.
 name: "Zikun Ren"
 sort_name: "Ren, Zikun"
-section: postdoc
+section: staff
 role: "Senior Research Associate"
 affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
