@@ -9,9 +9,7 @@ permalink: /people/
 sections:
   - key: gl
     label: "Group Leads"
-  - key: pi
-    label: "Academic Staff and Research Fellows and Postdocs"
-  - key: postdoc
+  - key: staff
     label: "Academic Staff and Research Fellows and Postdocs"
   - key: pgr
     label: "Postgraduate Researchers"
