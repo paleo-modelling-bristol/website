@@ -13,7 +13,7 @@
 #    the fields plus the bio text below as normal.
 name: "Paul Valdes"
 sort_name: "Valdes, Paul"
-section: pi
+section: gl
 role: "Professor"
 affiliation: ""
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
