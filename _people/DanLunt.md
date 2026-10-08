@@ -13,7 +13,7 @@
 #    the fields plus the bio text below as normal.
 name: "Dan Lunt"
 sort_name: "Lunt, Dan"
-section: pi
+section: gl
 role: "Professor of Climate Science"
 affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
