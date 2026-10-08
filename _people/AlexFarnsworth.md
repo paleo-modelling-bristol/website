@@ -13,7 +13,7 @@
 #    the fields plus the bio text below as normal.
 name: "Alex Farnsworth"
 sort_name: "Farnsworth, Alex"
-section: postdoc
+section: staff
 role: "Research Fellow"
 affiliation: "University of Bristol"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
