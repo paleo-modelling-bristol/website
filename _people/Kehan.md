@@ -38,5 +38,4 @@ I am a visiting pgr student at the Paleo Modelling Group, from the School of Geo
 ## Publications
 
 - Shao Kehan, Lu Huayu, Liang Chenghong, Li Guangwei, Gao Xin, Lyu Fan, Lai Wen, Wang Yingshan, Chen Xuanxuan, Lyu Hengzhi. The depositional sequence and palaeoclimatic and paleoenvironmental variations as Lushi Basin, Central China during the Middle Eocene[J]. Quaternary Sciences (in Chinese with English abstract), 2024, 44(2): 251-264.
-- 
 - Shao Kehan, Lu Huayu, Chen Jiuyi, Gu Xinjie, Chu Bowen, Wu Jiang, Yi Shuangwen. East Asian monsoon precipitation variations over the past 80 ka revealed by carbonate and dolomite content in loess deposit at Zhengzhou(Central China) and forcing mechanism[J]. Quaternary Sciences (in Chinese with English abstract), 2020, 40(6): 1622-1630.
