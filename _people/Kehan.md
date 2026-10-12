@@ -12,7 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Kehan Shao"
-section: pgr
+section: visitor
 role: "Visiting PGR Student"
 affiliation: "University of Bristol, Nanjing University"
 # photo: paste a full image URL (e.g. a Google Drive link), or a local path
