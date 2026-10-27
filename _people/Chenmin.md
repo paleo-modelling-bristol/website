@@ -12,7 +12,7 @@
 # 2) Internal page: leave `external_profile` as "" and fill in the rest of
 #    the fields plus the bio text below as normal.
 name: "Chenmin Yu"
-sort_name: "Chenmin, Yu"
+sort_name: "Yu，ChenminYu"
 section: visitor
 
 role: "PhD student"
@@ -32,7 +32,6 @@ scholar: ""
 social_media: ""
 
 research_interests:
-
 "Deep-time climate modelling"
 
 "Palaeoclimate reconstruction"
