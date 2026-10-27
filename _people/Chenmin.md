@@ -19,7 +19,7 @@ role: "PhD student"
 
 affiliation: "China University of Geosciences (Beijing)"
 
-photo: "assets/images/people/ChenminYu.jpeg"
+photo: "assets/images/people/ChenminYu.jpg"
 
 external_profile: ""
 
