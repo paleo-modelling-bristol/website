@@ -32,13 +32,13 @@ scholar: ""
 social_media: ""
 
 research_interests:
-"Deep-time climate modelling"
+ - "Deep-time climate modelling"
 
-"Palaeoclimate reconstruction"
+ - "Palaeoclimate reconstruction"
 
-"Climate-sensitive sediments"
+ - "Climate-sensitive sediments"
 
-"Mountain uplift"
+ - "Mountain uplift"
 
 
 ---
